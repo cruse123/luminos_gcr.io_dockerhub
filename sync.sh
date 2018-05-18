@@ -49,9 +49,9 @@ for img in ${imgs[@]}  ; do
     for tag in ${new_tags[@]};do
         docker pull gcr.io/google-containers/${img}:${tag}
         
-        docker tag gcr.io/google-containers/${img}:${tag} ${user_name}/${img}:${tag}
+        docker tag gcr.io/google-containers/${img}:${tag} ${DOCKER_USER}/${img}:${tag}
         
-        docker push ${user_name}/${img}:${tag}
+        docker push ${DOCKER_USER}/${img}:${tag}
         
         # Write to root CHANGELOG
         echo -e "1. Update: [gcr.io/google_containers/${img}:${tag}](https://hub.docker.com/r/cruse/${img}/tags/) \n\n" >> CHANGELOG.md
@@ -61,13 +61,13 @@ for img in ${imgs[@]}  ; do
     done
 
     # Docker hub pull token
-    token=$(curl -ks https://auth.docker.io/token\?service\=registry.docker.io\&scope\=repository:${user_name}/${img}:pull | jq -r '.token')
+    token=$(curl -ks https://auth.docker.io/token\?service\=registry.docker.io\&scope\=repository:${DOCKER_USER}/${img}:pull | jq -r '.token')
     
     # ${img} tags in gcr.io
     gcr_tags=$(echo ${gcr_content} | jq -r '.tags[]'|sort -r)
     
     # ${img} tags in Docker Hub
-    hub_tags=$(curl -ks -H "authorization: Bearer ${token}"  https://registry.hub.docker.com/v2/${user_name}/${img}/tags/list | jq -r '.tags[]'|sort -r)
+    hub_tags=$(curl -ks -H "authorization: Bearer ${token}"  https://registry.hub.docker.com/v2/${DOCKER_USER}/${img}/tags/list | jq -r '.tags[]'|sort -r)
     
     for tag in ${gcr_tags}
     do
@@ -76,8 +76,8 @@ for img in ${imgs[@]}  ; do
              echo google_containers/${img}:${tag} exits
         else
             docker pull gcr.io/google-containers/${img}:${tag}
-            docker tag gcr.io/google-containers/${img}:${tag} ${user_name}/${img}:${tag}
-            docker push ${user_name}/${img}:${tag}
+            docker tag gcr.io/google-containers/${img}:${tag} ${DOCKER_USER}/${img}:${tag}
+            docker push ${DOCKER_USER}/${img}:${tag}
         fi
         # Write old ${img} tag to ${img} README
         echo -e "Update: [gcr.io/google_containers/${img}:${tag}](https://hub.docker.com/r/cruse/${img}/tags/)\n" >> luminos_gcr.io_dockerhub/google_containers/${img}/README.md

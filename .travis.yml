@@ -1,7 +1,7 @@
 services:
   - docker
 script:
-  - docker login -u ${user_name} -p ${pass_word}
+  - docker login -u ${DOCKER_USER} -p ${DOCKER_PASS}
   - chmod +x ./sync.sh
   - ./sync.sh
 branches:
