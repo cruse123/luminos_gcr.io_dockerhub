@@ -71,9 +71,9 @@ for img in ${imgs[@]}  ; do
     
     for tag in ${gcr_tags}
     do
-        # if both of the gcr and docker hub ,not do anythings
+        # If ${img}:${tag} already synced, SKIP.
         if [ ! -z "${hub_tags[@]}" ] && (echo "${hub_tags[@]}" | grep -w "${tag}" &>/dev/null); then 
-             echo google_containers/${img}:${tag} exits
+             echo Image: google_containers/${img}:${tag} already exists, SKIPPING...
         else
             docker pull gcr.io/google-containers/${img}:${tag}
             docker tag gcr.io/google-containers/${img}:${tag} ${DOCKER_USER}/${img}:${tag}
