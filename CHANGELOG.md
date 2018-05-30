@@ -1,3 +1,11 @@
+## 2018-05-30 
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:93cddbb9baf81534f84380f706c2cb7a5aadc2b5](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:93cddbb9baf81534f84380f706c2cb7a5aadc2b5](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-05-26 
 
 1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:3e9582fdf5f9b8ae0d6b822f3c2c48beada9b59f](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
