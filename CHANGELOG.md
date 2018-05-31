@@ -1,3 +1,29 @@
+## 2018-05-31 
+
+1. Update: [gcr.io/google_containers/etcd:3.1.15](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd:3.2.18-0](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.1.15](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.2.18-0](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.1.15](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.1.15](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.1.15](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.1.15](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
 ## 2018-05-30 
 
 1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:93cddbb9baf81534f84380f706c2cb7a5aadc2b5](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
