@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-aggregator-amd64](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.0-beta.1](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)**
-
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.9.8-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)

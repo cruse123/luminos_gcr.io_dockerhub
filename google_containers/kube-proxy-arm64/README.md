@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-proxy-arm64](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-proxy-arm64:v1.11.0-beta.1](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/)**
-
 Update: [gcr.io/google_containers/kube-proxy-arm64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-arm64:v1.9.8-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/)
