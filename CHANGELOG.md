@@ -1,3 +1,29 @@
+## 2018-06-05 
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3__s390x_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3__arm64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3__ppc64le_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3__amd64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3__arm_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.1.3](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-api-server:dev](https://hub.docker.com/r/cruse/gke-mpi-api-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:dev](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-06-02 
 
 1. Update: [gcr.io/google_containers/addon-builder:am-i-a-manifest-list](https://hub.docker.com/r/cruse/addon-builder/tags/) 
