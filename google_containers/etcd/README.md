@@ -1,6 +1,8 @@
 [gcr.io/google-containers/etcd](https://hub.docker.com/r/cruse/etcd/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/etcd:3.1.17](https://hub.docker.com/r/cruse/etcd/tags/)**
+
 Update: [gcr.io/google_containers/etcd:v2.0.3](https://hub.docker.com/r/cruse/etcd/tags/)
 
 Update: [gcr.io/google_containers/etcd:3.2.18-0](https://hub.docker.com/r/cruse/etcd/tags/)
@@ -12,6 +14,8 @@ Update: [gcr.io/google_containers/etcd:3.2.17](https://hub.docker.com/r/cruse/et
 Update: [gcr.io/google_containers/etcd:3.2.16](https://hub.docker.com/r/cruse/etcd/tags/)
 
 Update: [gcr.io/google_containers/etcd:3.2.14](https://hub.docker.com/r/cruse/etcd/tags/)
+
+Update: [gcr.io/google_containers/etcd:3.1.17](https://hub.docker.com/r/cruse/etcd/tags/)
 
 Update: [gcr.io/google_containers/etcd:3.1.16](https://hub.docker.com/r/cruse/etcd/tags/)
 
