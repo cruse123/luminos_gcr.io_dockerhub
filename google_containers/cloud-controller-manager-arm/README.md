@@ -1,9 +1,7 @@
 [gcr.io/google-containers/cloud-controller-manager-arm](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.10.4](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
-
-**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.10.5-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
+**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-beta.2](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.9.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
@@ -186,6 +184,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.7.1](https://h
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.7.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.0-alpha.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-beta.2](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 

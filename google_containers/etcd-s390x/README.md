@@ -1,8 +1,6 @@
 [gcr.io/google-containers/etcd-s390x](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/etcd-s390x:3.1.17](https://hub.docker.com/r/cruse/etcd-s390x/tags/)**
-
 Update: [gcr.io/google_containers/etcd-s390x:3.2.18-0](https://hub.docker.com/r/cruse/etcd-s390x/tags/)
 
 Update: [gcr.io/google_containers/etcd-s390x:3.2.18](https://hub.docker.com/r/cruse/etcd-s390x/tags/)
