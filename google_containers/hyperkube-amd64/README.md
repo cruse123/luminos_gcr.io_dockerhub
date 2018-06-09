@@ -1,8 +1,6 @@
 [gcr.io/google-containers/hyperkube-amd64](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/hyperkube-amd64:v1.11.0-beta.2](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)**
-
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.9.8-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
