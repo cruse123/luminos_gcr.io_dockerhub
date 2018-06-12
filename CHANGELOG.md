@@ -1,3 +1,14 @@
+## 2018-06-12 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-api-server:dev](https://hub.docker.com/r/cruse/gke-mpi-api-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:dev](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-06-08 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.11.0-beta.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
