@@ -1,3 +1,8 @@
+## 2018-06-15 
+
+1. Update: [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r2](https://hub.docker.com/r/cruse/gke-certificates-controller/tags/) 
+
+
 ## 2018-06-12 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
