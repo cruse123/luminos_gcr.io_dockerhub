@@ -1,3 +1,17 @@
+## 2018-06-16 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.0-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:testing](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-tpu-operator:4328b8e92b6bc8b66c6d5d9bc1f99fbb845bc0ef](https://hub.docker.com/r/cruse/k8s-tpu-operator/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.6](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
+
+
 ## 2018-06-15 
 
 1. Update: [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r2](https://hub.docker.com/r/cruse/gke-certificates-controller/tags/) 
