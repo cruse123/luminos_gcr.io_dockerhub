@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-aggregator-ppc64le](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.11.0-rc.1](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)**
+**Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.5](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.6-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)**
 
 Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
 
@@ -163,7 +165,11 @@ Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.11.0-alpha.1](https
 
 Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.11.0-alpha.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.6-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.5-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.5](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-ppc64le:v1.10.4-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-ppc64le/tags/)
 
