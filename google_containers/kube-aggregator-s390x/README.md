@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-aggregator-s390x](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.11.0-rc.2](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)**
+
 Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.9.8-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
@@ -146,6 +148,8 @@ Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.7.12](https://hub.doc
 Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.7.11](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.12.0-alpha.0](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
+
+Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.11.0-rc.2](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-s390x:v1.11.0-rc.1](https://hub.docker.com/r/cruse/kube-aggregator-s390x/tags/)
 
