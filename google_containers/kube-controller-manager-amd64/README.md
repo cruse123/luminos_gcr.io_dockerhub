@@ -1,7 +1,7 @@
 [gcr.io/google-containers/kube-controller-manager-amd64](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.11.0-rc.2](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)**
+**Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.11.0-rc.3](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)**
 
 Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)
 
@@ -524,6 +524,8 @@ Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.2.0](https://
 Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.1.6](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.0-alpha.0](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.11.0-rc.3](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.11.0-rc.2](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/)
 
