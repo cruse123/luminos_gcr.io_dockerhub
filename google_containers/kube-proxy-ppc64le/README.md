@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-proxy-ppc64le](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-rc.3](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)**
+**Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.1-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)**
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
@@ -333,6 +335,8 @@ Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.3.0](https://hub.docker.
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.12.0-alpha.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.1-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-rc.3](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-rc.2](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
@@ -350,6 +354,8 @@ Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-alpha.2](https://hu
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-alpha.1](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0-alpha.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.10.6-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 

@@ -1,8 +1,6 @@
 [gcr.io/google-containers/rescheduler](https://hub.docker.com/r/cruse/rescheduler/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/rescheduler:v0.4.0](https://hub.docker.com/r/cruse/rescheduler/tags/)**
-
 Update: [gcr.io/google_containers/rescheduler:v0.4.0](https://hub.docker.com/r/cruse/rescheduler/tags/)
 
 Update: [gcr.io/google_containers/rescheduler:v0.3.1](https://hub.docker.com/r/cruse/rescheduler/tags/)
