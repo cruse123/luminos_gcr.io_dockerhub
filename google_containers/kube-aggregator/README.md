@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-aggregator](https://hub.docker.com/r/cruse/kube-aggregator/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-aggregator:v1.11.0](https://hub.docker.com/r/cruse/kube-aggregator/tags/)**
-
-**Update: [gcr.io/google_containers/kube-aggregator:v1.11.1-beta.0](https://hub.docker.com/r/cruse/kube-aggregator/tags/)**
-
 Update: [gcr.io/google_containers/kube-aggregator:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator:v1.9.8-beta.0](https://hub.docker.com/r/cruse/kube-aggregator/tags/)

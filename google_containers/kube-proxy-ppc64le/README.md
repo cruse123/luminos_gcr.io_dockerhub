@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-proxy-ppc64le](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)**
-
-**Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.11.1-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)**
-
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.9.8-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/)
