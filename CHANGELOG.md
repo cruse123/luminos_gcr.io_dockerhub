@@ -1,3 +1,8 @@
+## 2018-07-03 
+
+1. Update: [gcr.io/google_containers/kube-cross:V1.10.3-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2018-06-30 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.9.10-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
