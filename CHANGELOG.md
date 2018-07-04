@@ -1,3 +1,8 @@
+## 2018-07-04 
+
+1. Update: [gcr.io/google_containers/netd-amd64:0.1.1](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
+
+
 ## 2018-07-03 
 
 1. Update: [gcr.io/google_containers/kube-cross:V1.10.3-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
