@@ -1,3 +1,11 @@
+## 2018-07-05 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.0.6](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.1.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2018-07-04 
 
 1. Update: [gcr.io/google_containers/netd-amd64:0.1.1](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
