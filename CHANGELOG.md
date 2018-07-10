@@ -1,3 +1,11 @@
+## 2018-07-10 
+
+1. Update: [gcr.io/google_containers/fluentd-elasticsearch:v2.2.0](https://hub.docker.com/r/cruse/fluentd-elasticsearch/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.2.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-07-06 
 
 1. Update: [gcr.io/google_containers/addon-resizer:1.8.2](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
