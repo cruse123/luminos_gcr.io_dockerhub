@@ -1,3 +1,8 @@
+## 2018-07-14 
+
+1. Update: [gcr.io/google_containers/event-exporter:v0.2.2](https://hub.docker.com/r/cruse/event-exporter/tags/) 
+
+
 ## 2018-07-13 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 

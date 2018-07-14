@@ -1,6 +1,10 @@
 [gcr.io/google-containers/event-exporter](https://hub.docker.com/r/cruse/event-exporter/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/event-exporter:v0.2.2](https://hub.docker.com/r/cruse/event-exporter/tags/)**
+
+Update: [gcr.io/google_containers/event-exporter:v0.2.2](https://hub.docker.com/r/cruse/event-exporter/tags/)
+
 Update: [gcr.io/google_containers/event-exporter:v0.2.1](https://hub.docker.com/r/cruse/event-exporter/tags/)
 
 Update: [gcr.io/google_containers/event-exporter:v0.2.0](https://hub.docker.com/r/cruse/event-exporter/tags/)
