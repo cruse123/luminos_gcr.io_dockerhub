@@ -1,6 +1,8 @@
 [gcr.io/google-containers/ubuntu-nvidia-driver-installer](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)**
+
 Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:fe721d768bab68913c80d37946151ed4eb800e03](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
 
 Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
@@ -14,6 +16,8 @@ Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:cb2bdea5eb507a9
 Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:be78fc2ad63db8b598d341dacb30e37156621a7f](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
 
 Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:bd353d3c91114d5eaca071df07f1b7e845b87bc6](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
+
+Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
 
 Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:93cddbb9baf81534f84380f706c2cb7a5aadc2b5](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/)
 

@@ -1,3 +1,17 @@
+## 2018-07-17 
+
+1. Update: [gcr.io/google_containers/elasticsearch:v6.2.5](https://hub.docker.com/r/cruse/elasticsearch/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r5](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-07-14 
 
 1. Update: [gcr.io/google_containers/event-exporter:v0.2.2](https://hub.docker.com/r/cruse/event-exporter/tags/) 
