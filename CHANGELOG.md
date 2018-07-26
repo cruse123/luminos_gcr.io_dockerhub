@@ -1,3 +1,38 @@
+## 2018-07-26 
+
+1. Update: [gcr.io/google_containers/heapster-grafana-amd64:v5.0.4](https://hub.docker.com/r/cruse/heapster-grafana-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-grafana-arm:v5.0.4](https://hub.docker.com/r/cruse/heapster-grafana-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-grafana-arm64:v5.0.4](https://hub.docker.com/r/cruse/heapster-grafana-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-grafana-ppc64le:v5.0.4](https://hub.docker.com/r/cruse/heapster-grafana-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-grafana-s390x:v5.0.4](https://hub.docker.com/r/cruse/heapster-grafana-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-influxdb-amd64:v1.5.2](https://hub.docker.com/r/cruse/heapster-influxdb-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-influxdb-arm:v1.5.2](https://hub.docker.com/r/cruse/heapster-influxdb-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-influxdb-arm64:v1.5.2](https://hub.docker.com/r/cruse/heapster-influxdb-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-influxdb-ppc64le:v1.5.2](https://hub.docker.com/r/cruse/heapster-influxdb-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-influxdb-s390x:v1.5.2](https://hub.docker.com/r/cruse/heapster-influxdb-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metadata-proxy:v0.1.10](https://hub.docker.com/r/cruse/metadata-proxy/tags/) 
+
+
 ## 2018-07-17 
 
 1. Update: [gcr.io/google_containers/elasticsearch:v6.2.5](https://hub.docker.com/r/cruse/elasticsearch/tags/) 
