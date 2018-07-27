@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-aggregator-arm](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.6](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)**
+
+**Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.7-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)**
+
 Update: [gcr.io/google_containers/kube-aggregator-arm:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-arm:v1.9.9](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
@@ -181,7 +185,11 @@ Update: [gcr.io/google_containers/kube-aggregator-arm:v1.11.0-alpha.0](https://h
 
 Update: [gcr.io/google_containers/kube-aggregator-arm:v1.11.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
 
+Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.7-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
+
 Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.6-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
+
+Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.6](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-arm:v1.10.5-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-arm/tags/)
 
