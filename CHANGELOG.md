@@ -1,3 +1,11 @@
+## 2018-07-28 
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/netd-amd64:0.1.3](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
+
+
 ## 2018-07-27 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.6](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
