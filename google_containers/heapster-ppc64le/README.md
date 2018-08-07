@@ -1,6 +1,10 @@
 [gcr.io/google-containers/heapster-ppc64le](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/heapster-ppc64le:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/)**
+
+Update: [gcr.io/google_containers/heapster-ppc64le:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/heapster-ppc64le:v1.5.4](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/heapster-ppc64le:v1.5.3](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/)

@@ -1,3 +1,20 @@
+## 2018-08-07 
+
+1. Update: [gcr.io/google_containers/heapster-amd64:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-arm:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-arm64:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-ppc64le:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/heapster-s390x:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-s390x/tags/) 
+
+
 ## 2018-08-03 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.9.11-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
