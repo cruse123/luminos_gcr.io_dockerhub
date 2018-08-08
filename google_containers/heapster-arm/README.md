@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster-arm](https://hub.docker.com/r/cruse/heapster-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/heapster-arm:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-arm/tags/)**
-
 Update: [gcr.io/google_containers/heapster-arm:v1.6.0-beta.1](https://hub.docker.com/r/cruse/heapster-arm/tags/)
 
 Update: [gcr.io/google_containers/heapster-arm:v1.5.4](https://hub.docker.com/r/cruse/heapster-arm/tags/)
