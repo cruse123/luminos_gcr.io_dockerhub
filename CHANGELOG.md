@@ -1,3 +1,23 @@
+## 2018-08-09 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-api-server:alexcope-dev](https://hub.docker.com/r/cruse/gke-mpi-api-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-api-server:v.0.0.2](https://hub.docker.com/r/cruse/gke-mpi-api-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:alexcope-dev](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.2](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/netd-amd64:0.1.5](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
+
+
 ## 2018-08-08 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.11.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
