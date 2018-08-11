@@ -1,3 +1,53 @@
+## 2018-08-11 
+
+1. Update: [gcr.io/google_containers/debian-base-amd64:0.3.2](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm:0.3.2](https://hub.docker.com/r/cruse/debian-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm64:0.3.2](https://hub.docker.com/r/cruse/debian-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-ppc64le:0.3.2](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-s390x:0.3.2](https://hub.docker.com/r/cruse/debian-base-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.10.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm:0.10.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.10.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.10.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.10.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v10.1](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v10.1](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v10.1](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v10.1](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v10.1](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:628fc7640265d4094d13abd450bd270c60ca386d](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2018-08-09 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
