@@ -1,3 +1,8 @@
+## 2018-08-14 
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:b30912607c944f0b7935f24aa1fc391e0b112101](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2018-08-11 
 
 1. Update: [gcr.io/google_containers/debian-base-amd64:0.3.2](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
