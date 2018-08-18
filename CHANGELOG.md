@@ -1,3 +1,11 @@
+## 2018-08-18 
+
+1. Update: [gcr.io/google_containers/cos-kernel-headers:20180816-R01-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.3.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-08-17 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
