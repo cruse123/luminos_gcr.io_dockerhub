@@ -1,3 +1,8 @@
+## 2018-08-19 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
 ## 2018-08-18 
 
 1. Update: [gcr.io/google_containers/cos-kernel-headers:20180816-R01-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
