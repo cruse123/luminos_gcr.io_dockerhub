@@ -1,3 +1,8 @@
+## 2018-08-22 
+
+1. Update: [gcr.io/google_containers/cos-kernel-headers:20180821-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
+
+
 ## 2018-08-21 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.8-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
