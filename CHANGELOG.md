@@ -1,3 +1,26 @@
+## 2018-08-23 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.2-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/elasticsearch:v6.3.0](https://hub.docker.com/r/cruse/elasticsearch/tags/) 
+
+
+1. Update: [gcr.io/google_containers/event-exporter:v0.2.3](https://hub.docker.com/r/cruse/event-exporter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/fluentd-elasticsearch:v2.3.1](https://hub.docker.com/r/cruse/fluentd-elasticsearch/tags/) 
+
+
+1. Update: [gcr.io/google_containers/fluentd-gcp:2.0.18](https://hub.docker.com/r/cruse/fluentd-gcp/tags/) 
+
+
+1. Update: [gcr.io/google_containers/fluentd-gcp-scaler:0.4](https://hub.docker.com/r/cruse/fluentd-gcp-scaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gvisor-admission-webhook-amd64:c556d9ea0d21f15d76ebe81a4c8326b3f05938a5](https://hub.docker.com/r/cruse/gvisor-admission-webhook-amd64/tags/) 
+
+
 ## 2018-08-22 
 
 1. Update: [gcr.io/google_containers/cos-kernel-headers:20180821-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
