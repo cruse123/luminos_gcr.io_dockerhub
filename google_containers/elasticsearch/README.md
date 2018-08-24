@@ -1,8 +1,6 @@
 [gcr.io/google-containers/elasticsearch](https://hub.docker.com/r/cruse/elasticsearch/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/elasticsearch:v6.3.0](https://hub.docker.com/r/cruse/elasticsearch/tags/)**
-
 Update: [gcr.io/google_containers/elasticsearch:v6.3.0](https://hub.docker.com/r/cruse/elasticsearch/tags/)
 
 Update: [gcr.io/google_containers/elasticsearch:v6.2.5](https://hub.docker.com/r/cruse/elasticsearch/tags/)

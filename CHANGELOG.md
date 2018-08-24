@@ -1,3 +1,8 @@
+## 2018-08-24 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.3-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2018-08-23 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.2-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
