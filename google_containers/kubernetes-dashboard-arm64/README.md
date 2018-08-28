@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kubernetes-dashboard-arm64](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.10.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)**
+
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.8.3](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.8.2](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
@@ -44,6 +46,8 @@ Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.1.0-beta3](https
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.1.0-beta2](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.1.0-beta1](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
+
+Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.10.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.1.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/)
 

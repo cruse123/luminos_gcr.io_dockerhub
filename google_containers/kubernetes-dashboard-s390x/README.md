@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kubernetes-dashboard-s390x](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.10.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)**
+
 Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.3](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.2](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)
@@ -18,4 +20,6 @@ Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.6.3](https://hub
 Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.6.2](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.6.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)
+
+Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.10.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/)
 
