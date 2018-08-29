@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kubernetes-dashboard-arm](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kubernetes-dashboard-arm:v1.10.0](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm/tags/)**
-
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm:v1.8.3](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm/tags/)
 
 Update: [gcr.io/google_containers/kubernetes-dashboard-arm:v1.8.2](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm/tags/)
