@@ -1,3 +1,11 @@
+## 2018-08-30 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cos-kernel-headers:20180829-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
+
+
 ## 2018-08-29 
 
 1. Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.0-alpha.1](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
