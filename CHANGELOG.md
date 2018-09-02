@@ -1,3 +1,11 @@
+## 2018-09-02 
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:a6e0d842f065ef22be4eaea48d13b86547340381](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:a6e0d842f065ef22be4eaea48d13b86547340381](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-09-01 
 
 1. Update: [gcr.io/google_containers/kube-state-metrics:v1.4.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
