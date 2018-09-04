@@ -1,3 +1,8 @@
+## 2018-09-04 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.3.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-09-02 
 
 1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:a6e0d842f065ef22be4eaea48d13b86547340381](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
