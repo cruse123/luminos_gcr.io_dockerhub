@@ -1,3 +1,44 @@
+## 2018-09-06 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd:3.2.24](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.2.24](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.2.24](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.2.24](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.24.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.2.24](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.2.24](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager:v8.7](https://hub.docker.com/r/cruse/kube-addon-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-amd64:v8.7](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm:v8.7](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.7](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-s390x:v8.7](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/) 
+
+
 ## 2018-09-05 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
