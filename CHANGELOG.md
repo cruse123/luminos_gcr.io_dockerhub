@@ -1,3 +1,17 @@
+## 2018-09-07 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-tpu-operator:beebb121fd5de1e766d2d88342f3253dd710e7dd](https://hub.docker.com/r/cruse/k8s-tpu-operator/tags/) 
+
+
 ## 2018-09-06 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
