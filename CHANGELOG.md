@@ -1,3 +1,59 @@
+## 2018-09-08 
+
+1. Update: [gcr.io/google_containers/cadvisor:v0.31.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1__arm64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6__arm_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1__arm_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1__amd64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1__ppc64le_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1__s390x_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6__amd64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6__ppc64le_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6__arm64_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.1](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.0.6__s390x_linux](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.11](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.11](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.11](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:27396e9de55a96ba035e99480b70de5020861e60](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:27396e9de55a96ba035e99480b70de5020861e60](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-09-07 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
