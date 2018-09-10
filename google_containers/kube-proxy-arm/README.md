@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-proxy-arm](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.4-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)**
+
+**Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.3](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)**
+
 Update: [gcr.io/google_containers/kube-proxy-arm:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-arm:v1.9.9](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
@@ -527,7 +531,11 @@ Update: [gcr.io/google_containers/kube-proxy-arm:v1.12.0-alpha.1](https://hub.do
 
 Update: [gcr.io/google_containers/kube-proxy-arm:v1.12.0-alpha.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.4-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.3-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.3](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-arm:v1.11.2-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/)
 
