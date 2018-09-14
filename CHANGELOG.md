@@ -1,3 +1,11 @@
+## 2018-09-14 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.3.3](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-09-13 
 
 1. Update: [gcr.io/google_containers/fluentd-gcp-scaler:0.5](https://hub.docker.com/r/cruse/fluentd-gcp-scaler/tags/) 
