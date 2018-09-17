@@ -1,10 +1,6 @@
 [gcr.io/google-containers/hyperkube](https://hub.docker.com/r/cruse/hyperkube/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/hyperkube:v1.10.9-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)**
-
-**Update: [gcr.io/google_containers/hyperkube:v1.10.8](https://hub.docker.com/r/cruse/hyperkube/tags/)**
-
 Update: [gcr.io/google_containers/hyperkube:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
 Update: [gcr.io/google_containers/hyperkube:v1.9.9](https://hub.docker.com/r/cruse/hyperkube/tags/)
