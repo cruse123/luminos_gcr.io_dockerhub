@@ -1,3 +1,53 @@
+## 2018-09-18 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v10.2](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v10.2](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v10.2](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v10.2](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v10.2](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.1](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm:v0.3.1](https://hub.docker.com/r/cruse/metrics-server-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm64:v0.3.1](https://hub.docker.com/r/cruse/metrics-server-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-ppc64le:v0.3.1](https://hub.docker.com/r/cruse/metrics-server-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.1](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/) 
+
+
 ## 2018-09-16 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
