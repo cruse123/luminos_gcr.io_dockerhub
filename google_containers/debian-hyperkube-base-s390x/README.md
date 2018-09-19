@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-hyperkube-base-s390x](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.10.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/)**
-
 Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.9](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/)
 
 Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.8](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/)
