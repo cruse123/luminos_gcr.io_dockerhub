@@ -1,3 +1,8 @@
+## 2018-09-20 
+
+1. Update: [gcr.io/google_containers/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202](https://hub.docker.com/r/cruse/gvisor-admission-webhook-amd64/tags/) 
+
+
 ## 2018-09-19 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.0-rc.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 

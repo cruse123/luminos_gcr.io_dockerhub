@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-sidecar-s390x](https://hub.docker.com/r/cruse/k8s-dns-sidecar-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.12](https://hub.docker.com/r/cruse/k8s-dns-sidecar-s390x/tags/)**
-
 Update: [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.9](https://hub.docker.com/r/cruse/k8s-dns-sidecar-s390x/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.8](https://hub.docker.com/r/cruse/k8s-dns-sidecar-s390x/tags/)
