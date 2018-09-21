@@ -1,6 +1,8 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.13](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)**
+
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.9](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.8](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
@@ -16,6 +18,8 @@ Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.4](https://hu
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.3](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.2](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
+
+Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.13](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.12](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/)
 
