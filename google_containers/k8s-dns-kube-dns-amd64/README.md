@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-kube-dns-amd64](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.13](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/)**
-
 Update: [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.9](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.8](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/)
