@@ -1,3 +1,11 @@
+## 2018-09-29 
+
+1. Update: [gcr.io/google_containers/defaultbackend-amd64:1.5](https://hub.docker.com/r/cruse/defaultbackend-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:1aa2dddbbc427899e0dd5f313829552c0892e247](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2018-09-28 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
