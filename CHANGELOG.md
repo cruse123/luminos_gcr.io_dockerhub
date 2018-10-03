@@ -1,3 +1,44 @@
+## 2018-10-03 
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.3.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.3.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.3.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.3.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/defaultbackend-arm:1.5](https://hub.docker.com/r/cruse/defaultbackend-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/defaultbackend-arm64:1.5](https://hub.docker.com/r/cruse/defaultbackend-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/defaultbackend-ppc64le:1.5](https://hub.docker.com/r/cruse/defaultbackend-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-amd64:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm64:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-s390x:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/) 
+
+
 ## 2018-10-02 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.9.12-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
