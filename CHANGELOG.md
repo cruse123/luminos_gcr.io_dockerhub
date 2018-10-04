@@ -1,3 +1,8 @@
+## 2018-10-04 
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.11.1-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2018-10-03 
 
 1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.3.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
