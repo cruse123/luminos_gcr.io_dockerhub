@@ -1,3 +1,8 @@
+## 2018-10-05 
+
+1. Update: [gcr.io/google_containers/gvisor-admission-webhook-amd64:f419c470442c792b7b8fae72191132bbba44420a](https://hub.docker.com/r/cruse/gvisor-admission-webhook-amd64/tags/) 
+
+
 ## 2018-10-04 
 
 1. Update: [gcr.io/google_containers/kube-cross:v1.11.1-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
