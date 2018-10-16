@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-scheduler-arm64](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.13.0-alpha.1](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)**
+
 Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.9.9](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
@@ -476,6 +478,8 @@ Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.3.0-alpha.4](https://h
 Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.3.0-alpha.3](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.3.0](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
+
+Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.13.0-alpha.1](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.13.0-alpha.0](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/)
 
