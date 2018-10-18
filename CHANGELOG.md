@@ -1,3 +1,14 @@
+## 2018-10-18 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.2.3](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.11.1-2](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2018-10-17 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.9](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
