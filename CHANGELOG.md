@@ -1,3 +1,8 @@
+## 2018-10-19 
+
+1. Update: [gcr.io/google_containers/coredns:1.2.4](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
 ## 2018-10-18 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
