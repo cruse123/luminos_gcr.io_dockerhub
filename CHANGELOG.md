@@ -1,3 +1,23 @@
+## 2018-10-20 
+
+1. Update: [gcr.io/google_containers/debian-base:0.4.0](https://hub.docker.com/r/cruse/debian-base/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-amd64:0.4.0](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm:0.4.0](https://hub.docker.com/r/cruse/debian-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm64:0.4.0](https://hub.docker.com/r/cruse/debian-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-ppc64le:0.4.0](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-s390x:0.4.0](https://hub.docker.com/r/cruse/debian-base-s390x/tags/) 
+
+
 ## 2018-10-19 
 
 1. Update: [gcr.io/google_containers/coredns:1.2.4](https://hub.docker.com/r/cruse/coredns/tags/) 
