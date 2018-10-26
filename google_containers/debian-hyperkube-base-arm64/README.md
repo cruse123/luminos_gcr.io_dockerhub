@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-hyperkube-base-arm64](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.12.0](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/)**
-
 Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.9](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/)
 
 Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.8](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/)

@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-proxy-s390x](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-proxy-s390x:v1.13.0-alpha.2](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)**
+**Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.5-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)**
+
+**Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.4](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)**
 
 Update: [gcr.io/google_containers/kube-proxy-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
 
@@ -323,7 +325,11 @@ Update: [gcr.io/google_containers/kube-proxy-s390x:v1.12.0-alpha.0](https://hub.
 
 Update: [gcr.io/google_containers/kube-proxy-s390x:v1.12.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.5-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.4-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.4](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-s390x:v1.11.3-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/)
 
