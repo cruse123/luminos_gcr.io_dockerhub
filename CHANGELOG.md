@@ -1,3 +1,8 @@
+## 2018-10-31 
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.1](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2018-10-27 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
