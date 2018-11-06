@@ -1,3 +1,11 @@
+## 2018-11-06 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.11.2-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2018-11-02 
 
 1. Update: [gcr.io/google_containers/netd-amd64:0.1.9](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
