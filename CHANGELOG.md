@@ -1,3 +1,8 @@
+## 2018-11-07 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2018-11-06 
 
 1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
