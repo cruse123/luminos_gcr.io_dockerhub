@@ -1,3 +1,20 @@
+## 2018-11-10 
+
+1. Update: [gcr.io/google_containers/addon-resizer:1.8.4](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
+
+
+1. Update: [gcr.io/google_containers/git-sync:v3.0.0](https://hub.docker.com/r/cruse/git-sync/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.3.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.3.0](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.3.0](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2018-11-09 
 
 1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.0](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny/tags/) 
