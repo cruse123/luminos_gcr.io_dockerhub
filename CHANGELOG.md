@@ -1,3 +1,11 @@
+## 2018-11-16 
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:v0.1.0](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metadata-proxy:v0.1.11](https://hub.docker.com/r/cruse/metadata-proxy/tags/) 
+
+
 ## 2018-11-15 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.11-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
