@@ -1,3 +1,8 @@
+## 2018-11-20 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.0-alpha.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2018-11-17 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.13.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
