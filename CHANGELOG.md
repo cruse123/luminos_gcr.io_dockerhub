@@ -1,3 +1,14 @@
+## 2018-11-29 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-cloud-kms-plugin:v0.1.1](https://hub.docker.com/r/cruse/k8s-cloud-kms-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.6.1](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2018-11-28 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
