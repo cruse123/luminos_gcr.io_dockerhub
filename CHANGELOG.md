@@ -1,3 +1,8 @@
+## 2018-11-30 
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:76d1aec08eeeab7cdcd4bfe8591f65a35e7437e8](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-11-29 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
