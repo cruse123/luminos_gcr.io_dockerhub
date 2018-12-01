@@ -4,7 +4,7 @@
 
 ## Maintained by **LuminOS** 
 
-## [Last sync: **2018-12-01 06:50 UTC**]
+## [Last sync: **2018-12-01 10:52 UTC**]
 
 [![Sync Status](https://travis-ci.org/cruse123/luminos_gcr.io_dockerhub.svg?branch=sync)](https://travis-ci.org/cruse123/luminos_gcr.io_dockerhub)
 
@@ -17,7 +17,7 @@
 ```bash
 docker pull gcr.io/google-containers/pause-amd64:3.1
 # eq 
-docker pull cruse123/pause-amd64:3.1
+docker pull cruse/pause-amd64:3.1
 ```
 
 ## [Changelog](./CHANGELOG.md)
