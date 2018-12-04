@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-apiserver-amd64](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)**
+
+**Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.1-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)**
+
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.9.9](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
@@ -539,6 +543,8 @@ Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.1.6](https://hub.docke
 
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.14.0-alpha.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.1-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0-rc.2](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0-rc.1](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
@@ -556,6 +562,8 @@ Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0-alpha.2](https://
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0-alpha.1](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0-alpha.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.13.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.12.4-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/)
 
