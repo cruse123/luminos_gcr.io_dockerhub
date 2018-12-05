@@ -1,3 +1,11 @@
+## 2018-12-05 
+
+1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gvisor-admission-webhook-amd64:658ad9162cb172b120f8a079eec8ca349c6e6bbf](https://hub.docker.com/r/cruse/gvisor-admission-webhook-amd64/tags/) 
+
+
 ## 2018-12-04 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.13.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
