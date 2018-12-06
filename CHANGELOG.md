@@ -1,3 +1,11 @@
+## 2018-12-06 
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:67acdc25162c0ab6a055e6728fe4a7fa527b5f1a](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2018-12-05 
 
 1. Update: [gcr.io/google_containers/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d](https://hub.docker.com/r/cruse/gke-mpi-metadata-server/tags/) 
