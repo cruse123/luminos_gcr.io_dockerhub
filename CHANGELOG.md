@@ -1,3 +1,8 @@
+## 2018-12-07 
+
+1. Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.8](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
+
+
 ## 2018-12-06 
 
 1. Update: [gcr.io/google_containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
