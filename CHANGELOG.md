@@ -1,3 +1,17 @@
+## 2018-12-08 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:aaaeb040a9af5f782275cbd5cc610582389578a3](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:d65bdb5dc2ed00db7713fb7ec6346885082a0aea](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-12-07 
 
 1. Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.8](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
