@@ -1,9 +1,9 @@
 [gcr.io/google-containers/kube-scheduler-s390x](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.11.7-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)**
+**Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.5-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)**
 
-**Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.11.6](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)**
+**Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.4](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)**
 
 Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
 
@@ -325,7 +325,11 @@ Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.13.0-alpha.0](https://
 
 Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.13.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
 
+Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.5-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
+
 Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.4-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
+
+Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.4](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.3-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/)
 
