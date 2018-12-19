@@ -1,3 +1,29 @@
+## 2018-12-19 
+
+1. Update: [gcr.io/google_containers/cadvisor:v0.32.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.11.4-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.10.7-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubernetes-dashboard-arm:v1.10.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.10.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.10.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.10.1](https://hub.docker.com/r/cruse/kubernetes-dashboard-s390x/tags/) 
+
+
 ## 2018-12-18 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.5-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
