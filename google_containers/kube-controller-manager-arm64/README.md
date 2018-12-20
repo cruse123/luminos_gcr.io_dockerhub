@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-controller-manager-arm64](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.12](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
+
+**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.13-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
+
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.9.9](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
@@ -619,7 +623,11 @@ Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.2](https:/
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.1-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
+Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.13-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
+
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.12-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
+
+Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.12](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.10.11-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 

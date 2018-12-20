@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-s390x](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.12](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)**
+
+**Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.13-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)**
+
 Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.9](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
@@ -343,7 +347,11 @@ Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.2](https:
 
 Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
 
+Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.13-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
+
 Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.12-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.12](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.11-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/)
 
