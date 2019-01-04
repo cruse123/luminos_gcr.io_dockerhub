@@ -1,6 +1,10 @@
 [gcr.io/google-containers/coredns](https://hub.docker.com/r/cruse/coredns/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/coredns:1.3.0](https://hub.docker.com/r/cruse/coredns/tags/)**
+
+Update: [gcr.io/google_containers/coredns:1.3.0](https://hub.docker.com/r/cruse/coredns/tags/)
+
 Update: [gcr.io/google_containers/coredns:1.2.6](https://hub.docker.com/r/cruse/coredns/tags/)
 
 Update: [gcr.io/google_containers/coredns:1.2.4](https://hub.docker.com/r/cruse/coredns/tags/)

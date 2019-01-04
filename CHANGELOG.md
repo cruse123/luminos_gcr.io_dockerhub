@@ -1,3 +1,8 @@
+## 2019-01-04 
+
+1. Update: [gcr.io/google_containers/coredns:1.3.0](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
 ## 2018-12-20 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.12](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
