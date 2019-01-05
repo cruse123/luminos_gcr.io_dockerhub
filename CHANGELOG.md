@@ -1,3 +1,8 @@
+## 2019-01-05 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-01-04 
 
 1. Update: [gcr.io/google_containers/coredns:1.3.0](https://hub.docker.com/r/cruse/coredns/tags/) 
