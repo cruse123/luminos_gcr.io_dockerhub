@@ -1,3 +1,11 @@
+## 2019-01-08 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.6.2](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2019-01-05 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
