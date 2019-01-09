@@ -1,8 +1,6 @@
 [gcr.io/google-containers/node-problem-detector](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/node-problem-detector:v0.6.2](https://hub.docker.com/r/cruse/node-problem-detector/tags/)**
-
 Update: [gcr.io/google_containers/node-problem-detector:v0.6.2](https://hub.docker.com/r/cruse/node-problem-detector/tags/)
 
 Update: [gcr.io/google_containers/node-problem-detector:v0.6.1](https://hub.docker.com/r/cruse/node-problem-detector/tags/)
