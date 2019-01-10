@@ -1,3 +1,11 @@
+## 2019-01-10 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.2](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2019-01-08 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
