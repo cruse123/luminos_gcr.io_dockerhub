@@ -1,3 +1,17 @@
+## 2019-01-15 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/fluentd-elasticsearch:v2.4.0](https://hub.docker.com/r/cruse/fluentd-elasticsearch/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-amd64:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics-amd64/tags/) 
+
+
 ## 2019-01-11 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.13.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
