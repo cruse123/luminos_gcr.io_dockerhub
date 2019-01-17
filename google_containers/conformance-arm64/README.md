@@ -1,8 +1,6 @@
 [gcr.io/google-containers/conformance-arm64](https://hub.docker.com/r/cruse/conformance-arm64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/conformance-arm64:v1.14.0-alpha.1](https://hub.docker.com/r/cruse/conformance-arm64/tags/)**
-
 Update: [gcr.io/google_containers/conformance-arm64:v1.14.0-alpha.1](https://hub.docker.com/r/cruse/conformance-arm64/tags/)
 
 Update: [gcr.io/google_containers/conformance-arm64:v1.14.0-alpha.0](https://hub.docker.com/r/cruse/conformance-arm64/tags/)
