@@ -1,3 +1,11 @@
+## 2019-01-19 
+
+1. Update: [gcr.io/google_containers/cos-kernel-headers:20190118-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-01-18 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.6-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
