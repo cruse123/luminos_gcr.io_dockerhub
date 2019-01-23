@@ -1,9 +1,13 @@
 [gcr.io/google-containers/cos-kernel-headers](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/cos-kernel-headers:20190122-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/)**
+
 Update: [gcr.io/google_containers/cos-kernel-headers:live](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/)
 
 Update: [gcr.io/google_containers/cos-kernel-headers:latest](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/)
+
+Update: [gcr.io/google_containers/cos-kernel-headers:20190122-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/)
 
 Update: [gcr.io/google_containers/cos-kernel-headers:20190118-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/)
 
