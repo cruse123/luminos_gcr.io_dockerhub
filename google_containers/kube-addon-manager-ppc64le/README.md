@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-addon-manager-ppc64le](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v9.0](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/)**
+
+Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v9.0](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.9](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.8](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/)
