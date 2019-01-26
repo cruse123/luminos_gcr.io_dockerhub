@@ -1,9 +1,15 @@
 [gcr.io/google-containers/etcd-amd64](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/etcd-amd64:3.2.26](https://hub.docker.com/r/cruse/etcd-amd64/tags/)**
+
 Update: [gcr.io/google_containers/etcd-amd64:3.3.10-0](https://hub.docker.com/r/cruse/etcd-amd64/tags/)
 
 Update: [gcr.io/google_containers/etcd-amd64:3.3.10](https://hub.docker.com/r/cruse/etcd-amd64/tags/)
+
+Update: [gcr.io/google_containers/etcd-amd64:3.2.26-0](https://hub.docker.com/r/cruse/etcd-amd64/tags/)
+
+Update: [gcr.io/google_containers/etcd-amd64:3.2.26](https://hub.docker.com/r/cruse/etcd-amd64/tags/)
 
 Update: [gcr.io/google_containers/etcd-amd64:3.2.24-1](https://hub.docker.com/r/cruse/etcd-amd64/tags/)
 
