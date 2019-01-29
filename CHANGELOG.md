@@ -1,3 +1,20 @@
+## 2019-01-29 
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.4.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.4.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.4.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.4.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/netd-amd64:0.2.0](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
+
+
 ## 2019-01-26 
 
 1. Update: [gcr.io/google_containers/etcd:3.2.26](https://hub.docker.com/r/cruse/etcd/tags/) 
