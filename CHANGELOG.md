@@ -1,3 +1,59 @@
+## 2019-01-31 
+
+1. Update: [gcr.io/google_containers/debian-base:0.4.1](https://hub.docker.com/r/cruse/debian-base/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-amd64:0.4.1](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm:0.4.1](https://hub.docker.com/r/cruse/debian-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm64:0.4.1](https://hub.docker.com/r/cruse/debian-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-ppc64le:0.4.1](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-s390x:0.4.1](https://hub.docker.com/r/cruse/debian-base-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-arm64:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-hyperkube-base-s390x:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v11.0.1](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
 ## 2019-01-30 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.14.0-alpha.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 

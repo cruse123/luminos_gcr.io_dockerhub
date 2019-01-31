@@ -1,6 +1,8 @@
 [gcr.io/google-containers/debian-hyperkube-base-amd64](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)**
+
 Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
 
 Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.8](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
@@ -18,6 +20,8 @@ Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.4](https://hub.d
 Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.3](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
 
 Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.2](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
+
+Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.12.1](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
 
 Update: [gcr.io/google_containers/debian-hyperkube-base-amd64:0.12.0](https://hub.docker.com/r/cruse/debian-hyperkube-base-amd64/tags/)
 
