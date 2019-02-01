@@ -1,3 +1,14 @@
+## 2019-02-01 
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.3.1](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.3.1](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.3.1](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2019-01-31 
 
 1. Update: [gcr.io/google_containers/debian-base:0.4.1](https://hub.docker.com/r/cruse/debian-base/tags/) 
