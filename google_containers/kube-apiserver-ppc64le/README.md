@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-apiserver-ppc64le](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.14.0-alpha.3](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)**
+**Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.13](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.14-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)**
 
 Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
 
@@ -511,7 +513,11 @@ Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.2](https://hub.do
 
 Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.1-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.14-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.13-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.13](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.12-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/)
 

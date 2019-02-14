@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-scheduler-amd64](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.14.0-alpha.3](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)**
+**Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.13](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)**
+
+**Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.14-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)**
 
 Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
 
@@ -703,7 +705,11 @@ Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.2](https://hub.dock
 
 Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.1-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.14-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.13-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.13](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.10.12-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/)
 
