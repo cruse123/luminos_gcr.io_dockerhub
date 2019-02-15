@@ -1,3 +1,8 @@
+## 2019-02-15 
+
+1. Update: [gcr.io/google_containers/git-sync:v3.1.1](https://hub.docker.com/r/cruse/git-sync/tags/) 
+
+
 ## 2019-02-14 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.10.13](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
