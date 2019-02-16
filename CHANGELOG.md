@@ -1,3 +1,8 @@
+## 2019-02-16 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.7](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-02-15 
 
 1. Update: [gcr.io/google_containers/git-sync:v3.1.1](https://hub.docker.com/r/cruse/git-sync/tags/) 
