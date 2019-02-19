@@ -1,3 +1,8 @@
+## 2019-02-19 
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.4.2](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-02-16 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.7](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
