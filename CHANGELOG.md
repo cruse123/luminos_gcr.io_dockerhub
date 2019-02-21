@@ -1,3 +1,17 @@
+## 2019-02-21 
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.9.0](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.4.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.4.0](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.4.0](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2019-02-20 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.14.0-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
