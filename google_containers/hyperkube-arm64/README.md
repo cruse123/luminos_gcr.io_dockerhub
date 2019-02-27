@@ -1,6 +1,12 @@
 [gcr.io/google-containers/hyperkube-arm64](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.7-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.6](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube-arm64:v1.14.0-beta.1](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)**
+
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.9.9](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
@@ -489,6 +495,8 @@ Update: [gcr.io/google_containers/hyperkube-arm64:v1.3.0](https://hub.docker.com
 
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-arm64:v1.14.0-beta.1](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.14.0-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.14.0-alpha.3](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
@@ -533,7 +541,11 @@ Update: [gcr.io/google_containers/hyperkube-arm64:v1.13.0-alpha.0](https://hub.d
 
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.13.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.7-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.6-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.6](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.5-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/)
 
