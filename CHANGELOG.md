@@ -1,3 +1,26 @@
+## 2019-02-28 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.5.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.12.0-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm64:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-s390x:v1.5.0](https://hub.docker.com/r/cruse/kube-state-metrics-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.5.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-02-27 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.7-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
