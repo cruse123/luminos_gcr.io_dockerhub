@@ -1,3 +1,8 @@
+## 2019-03-08 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-03-07 
 
 1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.3.0](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
