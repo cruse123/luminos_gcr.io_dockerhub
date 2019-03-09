@@ -1,3 +1,17 @@
+## 2019-03-09 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.8](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.10](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
+
+
 ## 2019-03-08 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
