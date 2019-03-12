@@ -1,3 +1,11 @@
+## 2019-03-12 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
 ## 2019-03-09 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.8](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
