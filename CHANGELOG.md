@@ -1,3 +1,8 @@
+## 2019-03-14 
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
 ## 2019-03-13 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.14.0-beta.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
