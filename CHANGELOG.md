@@ -1,3 +1,11 @@
+## 2019-03-15 
+
+1. Update: [gcr.io/google_containers/fluentd-gcp:2.1.0](https://hub.docker.com/r/cruse/fluentd-gcp/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5](https://hub.docker.com/r/cruse/k8s-tpu-operator/tags/) 
+
+
 ## 2019-03-14 
 
 1. Update: [gcr.io/google_containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
