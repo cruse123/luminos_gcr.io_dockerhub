@@ -1,3 +1,17 @@
+## 2019-03-16 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.12.1-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.5.1](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-03-15 
 
 1. Update: [gcr.io/google_containers/fluentd-gcp:2.1.0](https://hub.docker.com/r/cruse/fluentd-gcp/tags/) 
