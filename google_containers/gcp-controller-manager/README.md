@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gcp-controller-manager](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/)**
-
 Update: [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r5](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/)
 
 Update: [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r4](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/)
