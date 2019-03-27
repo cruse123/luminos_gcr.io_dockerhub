@@ -1,3 +1,14 @@
+## 2019-03-27 
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.5.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.5.0](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.5.0](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2019-03-21 
 
 1. Update: [gcr.io/google_containers/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 

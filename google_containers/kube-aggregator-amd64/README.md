@@ -171,6 +171,8 @@ Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.12.0-alpha.0](https:/
 
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.9-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.9](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.8-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.8](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
@@ -200,6 +202,8 @@ Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.2-beta.0](https://
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.2](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.1-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.10-beta.0](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-aggregator-amd64:v1.11.1](https://hub.docker.com/r/cruse/kube-aggregator-amd64/tags/)
 
