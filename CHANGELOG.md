@@ -1,3 +1,17 @@
+## 2019-03-30 
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.5.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.5.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.5.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.5.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
 ## 2019-03-27 
 
 1. Update: [gcr.io/google_containers/vpa-admission-controller:0.5.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
