@@ -1,3 +1,23 @@
+## 2019-04-02 
+
+1. Update: [gcr.io/google_containers/debian-iptables:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
 ## 2019-03-30 
 
 1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.5.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
