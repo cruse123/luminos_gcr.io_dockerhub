@@ -1,3 +1,14 @@
+## 2019-04-05 
+
+1. Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cadvisor:v0.33.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:aa768aa30de1936f81bf2bc5e5d19d136a3af763](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2019-04-02 
 
 1. Update: [gcr.io/google_containers/debian-iptables:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables/tags/) 
