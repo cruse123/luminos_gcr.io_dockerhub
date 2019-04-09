@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-scheduler](https://hub.docker.com/r/cruse/kube-scheduler/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-scheduler:v1.14.1](https://hub.docker.com/r/cruse/kube-scheduler/tags/)**
+
+**Update: [gcr.io/google_containers/kube-scheduler:v1.14.2-beta.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/)**
+
 Update: [gcr.io/google_containers/kube-scheduler:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler:v1.9.9](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
@@ -531,7 +535,11 @@ Update: [gcr.io/google_containers/kube-scheduler:v1.2.0](https://hub.docker.com/
 
 Update: [gcr.io/google_containers/kube-scheduler:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
 
+Update: [gcr.io/google_containers/kube-scheduler:v1.14.2-beta.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
+
 Update: [gcr.io/google_containers/kube-scheduler:v1.14.1-beta.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
+
+Update: [gcr.io/google_containers/kube-scheduler:v1.14.1](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler:v1.14.0-rc.1](https://hub.docker.com/r/cruse/kube-scheduler/tags/)
 
