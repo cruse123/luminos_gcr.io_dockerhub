@@ -1,3 +1,20 @@
+## 2019-04-11 
+
+1. Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.2](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm:v0.3.2](https://hub.docker.com/r/cruse/metrics-server-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm64:v0.3.2](https://hub.docker.com/r/cruse/metrics-server-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-ppc64le:v0.3.2](https://hub.docker.com/r/cruse/metrics-server-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.2](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/) 
+
+
 ## 2019-04-09 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.14.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
