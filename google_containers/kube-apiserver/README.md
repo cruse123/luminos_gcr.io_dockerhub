@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-apiserver](https://hub.docker.com/r/cruse/kube-apiserver/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-apiserver:v1.15.0-alpha.1](https://hub.docker.com/r/cruse/kube-apiserver/tags/)**
+
 Update: [gcr.io/google_containers/kube-apiserver:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver:v1.9.9](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
@@ -528,6 +530,8 @@ Update: [gcr.io/google_containers/kube-apiserver:v1.2.0-beta.0](https://hub.dock
 Update: [gcr.io/google_containers/kube-apiserver:v1.2.0-alpha.8](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver:v1.2.0](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
+
+Update: [gcr.io/google_containers/kube-apiserver:v1.15.0-alpha.1](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/kube-apiserver/tags/)
 
