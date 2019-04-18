@@ -1,3 +1,17 @@
+## 2019-04-18 
+
+1. Update: [gcr.io/google_containers/fluentd-gcp:2.1.1](https://hub.docker.com/r/cruse/fluentd-gcp/tags/) 
+
+
+1. Update: [gcr.io/google_containers/fluentd-gcp-scaler:0.5.2](https://hub.docker.com/r/cruse/fluentd-gcp-scaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:89f06b8083c6bfc052eb504af55e9b91b944d500](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.3.1](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2019-04-17 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
