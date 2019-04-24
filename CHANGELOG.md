@@ -1,3 +1,224 @@
+## 2019-04-24 
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cloud-controller-manager-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:39f31955a8a548d44adb228a543d7d45ad1799e0](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube:v1.12.8](https://hub.docker.com/r/cruse/hyperkube/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-amd64:v1.12.8](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-arm:v1.12.8](https://hub.docker.com/r/cruse/hyperkube-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.8](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-s390x:v1.12.8](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hyperkube-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-arm:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-arm:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-s390x:v1.12.8](https://hub.docker.com/r/cruse/kube-controller-manager-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-controller-manager-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-amd64:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-arm:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-arm64:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-s390x:v1.12.8](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-proxy-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-proxy-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-amd64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-arm:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-arm64:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.8](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-scheduler-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-s390x/tags/) 
+
+
 ## 2019-04-23 
 
 1. Update: [gcr.io/google_containers/cos-kernel-headers:20190422-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
