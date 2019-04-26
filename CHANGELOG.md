@@ -1,3 +1,23 @@
+## 2019-04-26 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.14.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.5.1](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.5.1](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.5.1](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2019-04-25 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
