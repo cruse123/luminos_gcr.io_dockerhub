@@ -1,3 +1,44 @@
+## 2019-05-01 
+
+1. Update: [gcr.io/google_containers/cos-kernel-headers:20190430-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-amd64:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-amd64:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm64:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-arm64:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-s390x:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-addon-manager-s390x:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/) 
+
+
 ## 2019-04-30 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.15.0-alpha.2](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
