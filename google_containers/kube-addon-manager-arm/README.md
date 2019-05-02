@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-addon-manager-arm](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-addon-manager-arm:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/)**
-
-**Update: [gcr.io/google_containers/kube-addon-manager-arm:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/)**
-
 Update: [gcr.io/google_containers/kube-addon-manager-arm:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/kube-addon-manager-arm:v9.0](https://hub.docker.com/r/cruse/kube-addon-manager-arm/tags/)

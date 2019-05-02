@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-addon-manager-amd64](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-addon-manager-amd64:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-addon-manager-amd64:v8.9.1](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/)**
-
 Update: [gcr.io/google_containers/kube-addon-manager-amd64:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-addon-manager-amd64:v9.0](https://hub.docker.com/r/cruse/kube-addon-manager-amd64/tags/)
