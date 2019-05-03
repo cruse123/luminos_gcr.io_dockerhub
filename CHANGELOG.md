@@ -1,3 +1,17 @@
+## 2019-05-03 
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metadata-proxy:v0.1.12](https://hub.docker.com/r/cruse/metadata-proxy/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server:v0.3.3](https://hub.docker.com/r/cruse/metrics-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.3](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
+
+
 ## 2019-05-02 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.11.10](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
