@@ -1,3 +1,11 @@
+## 2019-05-04 
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.5.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-05-03 
 
 1. Update: [gcr.io/google_containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
