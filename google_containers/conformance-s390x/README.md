@@ -1,7 +1,9 @@
 [gcr.io/google-containers/conformance-s390x](https://hub.docker.com/r/cruse/conformance-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/conformance-s390x:v1.15.0-alpha.3](https://hub.docker.com/r/cruse/conformance-s390x/tags/)**
+**Update: [gcr.io/google_containers/conformance-s390x:v1.13.6](https://hub.docker.com/r/cruse/conformance-s390x/tags/)**
+
+**Update: [gcr.io/google_containers/conformance-s390x:v1.13.7-beta.0](https://hub.docker.com/r/cruse/conformance-s390x/tags/)**
 
 Update: [gcr.io/google_containers/conformance-s390x:v1.15.0-alpha.3](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
 
@@ -35,7 +37,11 @@ Update: [gcr.io/google_containers/conformance-s390x:v1.14.0-alpha.0](https://hub
 
 Update: [gcr.io/google_containers/conformance-s390x:v1.14.0](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
 
+Update: [gcr.io/google_containers/conformance-s390x:v1.13.7-beta.0](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
+
 Update: [gcr.io/google_containers/conformance-s390x:v1.13.6-beta.0](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
+
+Update: [gcr.io/google_containers/conformance-s390x:v1.13.6](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
 
 Update: [gcr.io/google_containers/conformance-s390x:v1.13.5-beta.0](https://hub.docker.com/r/cruse/conformance-s390x/tags/)
 
