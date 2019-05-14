@@ -1,3 +1,23 @@
+## 2019-05-14 
+
+1. Update: [gcr.io/google_containers/cpvpa-amd64:v0.7.1](https://hub.docker.com/r/cruse/cpvpa-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ip-masq-agent:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ip-masq-agent-amd64:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ip-masq-agent-arm:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ip-masq-agent-arm64:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ip-masq-agent-ppc64le:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-ppc64le/tags/) 
+
+
 ## 2019-05-13 
 
 1. Update: [gcr.io/google_containers/event-exporter:v0.2.5](https://hub.docker.com/r/cruse/event-exporter/tags/) 
