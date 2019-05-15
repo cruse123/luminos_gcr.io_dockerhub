@@ -1,7 +1,9 @@
 [gcr.io/google-containers/ip-masq-agent-amd64](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/ip-masq-agent-amd64:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/)**
+**Update: [gcr.io/google_containers/ip-masq-agent-amd64:v2.4.1](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/)**
+
+Update: [gcr.io/google_containers/ip-masq-agent-amd64:v2.4.1](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/)
 
 Update: [gcr.io/google_containers/ip-masq-agent-amd64:v2.4.0](https://hub.docker.com/r/cruse/ip-masq-agent-amd64/tags/)
 
