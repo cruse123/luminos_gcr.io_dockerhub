@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-scheduler-ppc64le](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.2](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.3-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)**
+
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.9.9](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
@@ -357,7 +361,11 @@ Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.15.0-alpha.1](https:
 
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.3-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.2-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.2](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.14.1-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
 
