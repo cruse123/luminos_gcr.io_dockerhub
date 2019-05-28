@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-apiserver-s390x](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.9](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)**
+
+**Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.10-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)**
+
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.9.9](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
@@ -381,6 +385,8 @@ Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.13.0](https://hub.dock
 
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.9-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 
+Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.9](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
+
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.8-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.8](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
@@ -410,6 +416,8 @@ Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.2-beta.0](https://h
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.2](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.1-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
+
+Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.10-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-s390x:v1.12.1](https://hub.docker.com/r/cruse/kube-apiserver-s390x/tags/)
 

@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-arm](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.9](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
+
+**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.10-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
+
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.9.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.9.9](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
@@ -289,6 +293,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.13.0](https://
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
+Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.9](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
+
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.8-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.8](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
@@ -318,6 +324,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.2-beta.0](h
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.2](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.10-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.1](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
