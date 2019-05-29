@@ -1,9 +1,7 @@
 [gcr.io/google-containers/cloud-controller-manager-amd64](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.9](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)**
-
-**Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.10-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)**
+**Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)**
 
 Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)
 
@@ -206,6 +204,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.7.1](https:/
 Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.7.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.16.0-alpha.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.0-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-amd64/tags/)
 
