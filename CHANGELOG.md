@@ -1,3 +1,23 @@
+## 2019-05-30 
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:3094d4b75351008bbd0813a12bdadcd00c9756bf](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:4baa941d8df91e5dc1736adea74ce54e564dd782](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/proxy-agent:v0.0.1](https://hub.docker.com/r/cruse/proxy-agent/tags/) 
+
+
+1. Update: [gcr.io/google_containers/proxy-server:v0.0.1](https://hub.docker.com/r/cruse/proxy-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-05-29 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.15.0-beta.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
