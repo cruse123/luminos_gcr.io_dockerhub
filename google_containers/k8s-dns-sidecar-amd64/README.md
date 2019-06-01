@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-sidecar-amd64](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/)**
-
 Update: [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.2](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/)

@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm/tags/)**
-
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.2](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm/tags/)
