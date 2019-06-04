@@ -1,3 +1,17 @@
+## 2019-06-04 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.12.6](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.14.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2019-05-31 
 
 1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny/tags/) 
