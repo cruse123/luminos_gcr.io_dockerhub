@@ -1,7 +1,13 @@
 [gcr.io/google-containers/hyperkube](https://hub.docker.com/r/cruse/hyperkube/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/hyperkube:v1.15.0-beta.2](https://hub.docker.com/r/cruse/hyperkube/tags/)**
+**Update: [gcr.io/google_containers/hyperkube:v1.13.8-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube:v1.14.4-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube:v1.14.3](https://hub.docker.com/r/cruse/hyperkube/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube:v1.13.7](https://hub.docker.com/r/cruse/hyperkube/tags/)**
 
 Update: [gcr.io/google_containers/hyperkube:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
@@ -553,7 +559,11 @@ Update: [gcr.io/google_containers/hyperkube:v1.15.0-alpha.1](https://hub.docker.
 
 Update: [gcr.io/google_containers/hyperkube:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
+Update: [gcr.io/google_containers/hyperkube:v1.14.4-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
 Update: [gcr.io/google_containers/hyperkube:v1.14.3-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
+Update: [gcr.io/google_containers/hyperkube:v1.14.3](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
 Update: [gcr.io/google_containers/hyperkube:v1.14.2-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
@@ -583,7 +593,11 @@ Update: [gcr.io/google_containers/hyperkube:v1.14.0](https://hub.docker.com/r/cr
 
 Update: [gcr.io/google_containers/hyperkube:v1.1.4](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
+Update: [gcr.io/google_containers/hyperkube:v1.13.8-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
 Update: [gcr.io/google_containers/hyperkube:v1.13.7-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
+Update: [gcr.io/google_containers/hyperkube:v1.13.7](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
 Update: [gcr.io/google_containers/hyperkube:v1.13.6-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
