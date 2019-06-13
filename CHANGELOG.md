@@ -1,3 +1,80 @@
+## 2019-06-13 
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache-arm64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache-ppc64le:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-node-cache-s390x:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-sidecar-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.3.4](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2019-06-12 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.15.0-rc.1](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
