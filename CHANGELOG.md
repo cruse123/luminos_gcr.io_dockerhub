@@ -1,3 +1,8 @@
+## 2019-06-15 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-06-14 
 
 1. Update: [gcr.io/google_containers/node-problem-detector:v0.6.4](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
