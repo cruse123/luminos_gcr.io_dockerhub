@@ -1,3 +1,11 @@
+## 2019-06-19 
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.12.6-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/startup-script:v2](https://hub.docker.com/r/cruse/startup-script/tags/) 
+
+
 ## 2019-06-18 
 
 1. Update: [gcr.io/google_containers/ingress-gce-404-server-with-metrics-amd64:v1.6.0](https://hub.docker.com/r/cruse/ingress-gce-404-server-with-metrics-amd64/tags/) 
