@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-arm](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
+
+**Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)**
+
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.9.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.9.9](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
@@ -203,6 +207,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.7.0](https://h
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.16.0-alpha.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
+Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
+
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0-rc.1](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0-beta.2](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
@@ -218,6 +224,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0-alpha.2](
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0-alpha.1](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0-alpha.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-arm:v1.14.4-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-arm/tags/)
 
