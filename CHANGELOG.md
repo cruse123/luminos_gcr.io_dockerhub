@@ -1,3 +1,8 @@
+## 2019-06-22 
+
+1. Update: [gcr.io/google_containers/kube-proxy-amd64:v1.12.7-gke.22](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/) 
+
+
 ## 2019-06-20 
 
 1. Update: [gcr.io/google_containers/cloud-controller-manager:v1.15.0](https://hub.docker.com/r/cruse/cloud-controller-manager/tags/) 
