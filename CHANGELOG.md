@@ -1,3 +1,11 @@
+## 2019-07-04 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
+1. Update: [gcr.io/google_containers/netd-amd64:0.2.1](https://hub.docker.com/r/cruse/netd-amd64/tags/) 
+
+
 ## 2019-06-22 
 
 1. Update: [gcr.io/google_containers/kube-proxy-amd64:v1.12.7-gke.22](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/) 
