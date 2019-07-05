@@ -1,3 +1,8 @@
+## 2019-07-05 
+
+1. Update: [gcr.io/google_containers/heapster-amd64:v1.7.0](https://hub.docker.com/r/cruse/heapster-amd64/tags/) 
+
+
 ## 2019-07-04 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
