@@ -1,9 +1,13 @@
 [gcr.io/google-containers/hyperkube-ppc64le](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.12.11-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
+**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
 
-**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.12.10](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
+**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.4](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.5-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.8](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)**
 
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
@@ -333,7 +337,11 @@ Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.15.0-alpha.0](https://hub
 
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.15.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.5-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.4-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.4](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.3-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
@@ -365,7 +373,11 @@ Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.0-alpha.0](https://hub
 
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.14.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.8-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.8](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-ppc64le:v1.13.7-beta.0](https://hub.docker.com/r/cruse/hyperkube-ppc64le/tags/)
 
