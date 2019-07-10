@@ -1,14 +1,6 @@
 [gcr.io/google-containers/conformance](https://hub.docker.com/r/cruse/conformance/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/conformance:v1.13.9-beta.0](https://hub.docker.com/r/cruse/conformance/tags/)**
-
-**Update: [gcr.io/google_containers/conformance:v1.14.4](https://hub.docker.com/r/cruse/conformance/tags/)**
-
-**Update: [gcr.io/google_containers/conformance:v1.14.5-beta.0](https://hub.docker.com/r/cruse/conformance/tags/)**
-
-**Update: [gcr.io/google_containers/conformance:v1.13.8](https://hub.docker.com/r/cruse/conformance/tags/)**
-
 Update: [gcr.io/google_containers/conformance:v1.16.0-alpha.0](https://hub.docker.com/r/cruse/conformance/tags/)
 
 Update: [gcr.io/google_containers/conformance:v1.15.1-beta.0](https://hub.docker.com/r/cruse/conformance/tags/)

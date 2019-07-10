@@ -1,14 +1,6 @@
 [gcr.io/google-containers/conformance-amd64](https://hub.docker.com/r/cruse/conformance-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/conformance-amd64:v1.13.9-beta.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)**
-
-**Update: [gcr.io/google_containers/conformance-amd64:v1.14.4](https://hub.docker.com/r/cruse/conformance-amd64/tags/)**
-
-**Update: [gcr.io/google_containers/conformance-amd64:v1.14.5-beta.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)**
-
-**Update: [gcr.io/google_containers/conformance-amd64:v1.13.8](https://hub.docker.com/r/cruse/conformance-amd64/tags/)**
-
 Update: [gcr.io/google_containers/conformance-amd64:v1.16.0-alpha.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)
 
 Update: [gcr.io/google_containers/conformance-amd64:v1.15.1-beta.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)

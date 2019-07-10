@@ -1,3 +1,8 @@
+## 2019-07-10 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
 ## 2019-07-09 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
