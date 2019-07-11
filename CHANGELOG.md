@@ -1,3 +1,8 @@
+## 2019-07-11 
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.10.0](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2019-07-10 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
