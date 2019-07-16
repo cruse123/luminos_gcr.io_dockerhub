@@ -1,3 +1,11 @@
+## 2019-07-16 
+
+1. Update: [gcr.io/google_containers/proxy-agent:v0.0.2](https://hub.docker.com/r/cruse/proxy-agent/tags/) 
+
+
+1. Update: [gcr.io/google_containers/proxy-server:v0.0.2](https://hub.docker.com/r/cruse/proxy-server/tags/) 
+
+
 ## 2019-07-12 
 
 1. Update: [gcr.io/google_containers/kube-cross:v1.12.7-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
