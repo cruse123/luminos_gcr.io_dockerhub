@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-state-metrics](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-state-metrics:v1.7.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/)**
-
 Update: [gcr.io/google_containers/kube-state-metrics:v1.7.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/)
 
 Update: [gcr.io/google_containers/kube-state-metrics:v1.6.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/)
