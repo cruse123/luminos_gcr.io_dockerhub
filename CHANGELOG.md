@@ -1,3 +1,8 @@
+## 2019-07-24 
+
+1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
+
+
 ## 2019-07-22 
 
 1. Update: [gcr.io/google_containers/kube-state-metrics:v1.7.1](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
