@@ -1,3 +1,8 @@
+## 2019-07-25 
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.6.5](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2019-07-24 
 
 1. Update: [gcr.io/google_containers/addon-builder:latest](https://hub.docker.com/r/cruse/addon-builder/tags/) 
