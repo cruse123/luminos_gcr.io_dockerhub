@@ -1,3 +1,11 @@
+## 2019-07-27 
+
+1. Update: [gcr.io/google_containers/git-sync:v3.1.2](https://hub.docker.com/r/cruse/git-sync/tags/) 
+
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.7.0](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2019-07-25 
 
 1. Update: [gcr.io/google_containers/node-problem-detector:v0.6.5](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
