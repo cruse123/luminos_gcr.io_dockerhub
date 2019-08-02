@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-addon-manager-s390x](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-addon-manager-s390x:v9.0.2](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/)**
-
 Update: [gcr.io/google_containers/kube-addon-manager-s390x:v9.0.2](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/)
 
 Update: [gcr.io/google_containers/kube-addon-manager-s390x:v9.0.1](https://hub.docker.com/r/cruse/kube-addon-manager-s390x/tags/)
