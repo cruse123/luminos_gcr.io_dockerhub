@@ -1,3 +1,8 @@
+## 2019-08-03 
+
+1. Update: [gcr.io/google_containers/event-exporter:v0.3.0](https://hub.docker.com/r/cruse/event-exporter/tags/) 
+
+
 ## 2019-08-01 
 
 1. Update: [gcr.io/google_containers/cos-kernel-headers:20190731-R00-00](https://hub.docker.com/r/cruse/cos-kernel-headers/tags/) 
