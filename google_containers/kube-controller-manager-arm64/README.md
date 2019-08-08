@@ -1,17 +1,7 @@
 [gcr.io/google-containers/kube-controller-manager-arm64](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.14.6-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.13.10-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.2](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.3-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.13.9](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
-
-**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.14.5](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
+**Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.16.0-alpha.3](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)**
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
@@ -488,6 +478,8 @@ Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.3.0-alpha.4](
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.3.0-alpha.3](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.3.0](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
+
+Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.16.0-alpha.3](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-arm64:v1.16.0-alpha.2](https://hub.docker.com/r/cruse/kube-controller-manager-arm64/tags/)
 
