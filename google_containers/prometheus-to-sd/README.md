@@ -1,6 +1,14 @@
 [gcr.io/google-containers/prometheus-to-sd](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/prometheus-to-sd:v0.7.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)**
+
+**Update: [gcr.io/google_containers/prometheus-to-sd:v0.7.1](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)**
+
+Update: [gcr.io/google_containers/prometheus-to-sd:v0.7.1](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)
+
+Update: [gcr.io/google_containers/prometheus-to-sd:v0.7.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)
+
 Update: [gcr.io/google_containers/prometheus-to-sd:v0.6.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)
 
 Update: [gcr.io/google_containers/prometheus-to-sd:v0.5.2](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/)
