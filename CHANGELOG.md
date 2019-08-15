@@ -1,3 +1,8 @@
+## 2019-08-15 
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
 ## 2019-08-14 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.0-alpha.0](https://hub.docker.com/r/cruse/conformance/tags/) 
