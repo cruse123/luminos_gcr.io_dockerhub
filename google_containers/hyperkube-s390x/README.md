@@ -1,6 +1,8 @@
 [gcr.io/google-containers/hyperkube-s390x](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-beta.1](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)**
+
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.9.9](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
@@ -305,6 +307,8 @@ Update: [gcr.io/google_containers/hyperkube-s390x:v1.6.0](https://hub.docker.com
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.17.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-beta.1](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-alpha.3](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
@@ -315,7 +319,11 @@ Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-alpha.1](https://hub.d
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.16.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.4-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.3-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.3](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.2-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
@@ -343,7 +351,11 @@ Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.0-alpha.0](https://hub.d
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.15.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.14.7-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.14.6-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.14.6](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.14.5-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
@@ -417,7 +429,11 @@ Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.2](https://hub.docker.co
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.1-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.11-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.10-beta.0](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.10](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-s390x:v1.13.1](https://hub.docker.com/r/cruse/hyperkube-s390x/tags/)
 
