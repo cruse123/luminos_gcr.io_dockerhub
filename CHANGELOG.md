@@ -1,3 +1,8 @@
+## 2019-08-23 
+
+1. Update: [gcr.io/google_containers/slo-monitor:0.12.0](https://hub.docker.com/r/cruse/slo-monitor/tags/) 
+
+
 ## 2019-08-22 
 
 1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.5](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny/tags/) 
