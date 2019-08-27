@@ -1,3 +1,8 @@
+## 2019-08-27 
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
+
+
 ## 2019-08-23 
 
 1. Update: [gcr.io/google_containers/slo-monitor:0.12.0](https://hub.docker.com/r/cruse/slo-monitor/tags/) 
