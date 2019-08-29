@@ -1,3 +1,11 @@
+## 2019-08-29 
+
+1. Update: [gcr.io/google_containers/coredns:1.6.2](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.7.1](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2019-08-27 
 
 1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-amd64/tags/) 
