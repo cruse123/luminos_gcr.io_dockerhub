@@ -1,3 +1,14 @@
+## 2019-09-04 
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:da099ce4c87505210e8f9a5704057d222a75e77f](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.12](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/watcher-daemonset:alpha1](https://hub.docker.com/r/cruse/watcher-daemonset/tags/) 
+
+
 ## 2019-09-03 
 
 1. Update: [gcr.io/google_containers/ip-masq-agent:v2.5.0](https://hub.docker.com/r/cruse/ip-masq-agent/tags/) 
