@@ -1,6 +1,12 @@
 [gcr.io/google-containers/etcd-arm](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/etcd-arm:3.3.15](https://hub.docker.com/r/cruse/etcd-arm/tags/)**
+
+Update: [gcr.io/google_containers/etcd-arm:3.3.15-0](https://hub.docker.com/r/cruse/etcd-arm/tags/)
+
+Update: [gcr.io/google_containers/etcd-arm:3.3.15](https://hub.docker.com/r/cruse/etcd-arm/tags/)
+
 Update: [gcr.io/google_containers/etcd-arm:3.3.10-0](https://hub.docker.com/r/cruse/etcd-arm/tags/)
 
 Update: [gcr.io/google_containers/etcd-arm:3.3.10](https://hub.docker.com/r/cruse/etcd-arm/tags/)
