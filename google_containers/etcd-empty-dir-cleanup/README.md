@@ -1,8 +1,6 @@
 [gcr.io/google-containers/etcd-empty-dir-cleanup](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.3.15.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/)**
-
 Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.3.15.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/)
 
 Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.3.10.1](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/)
