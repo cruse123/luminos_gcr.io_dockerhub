@@ -1,3 +1,14 @@
+## 2019-09-10 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.7.2](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-09-07 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
