@@ -1,3 +1,8 @@
+## 2019-09-12 
+
+1. Update: [gcr.io/google_containers/hpa-example2:latest](https://hub.docker.com/r/cruse/hpa-example2/tags/) 
+
+
 ## 2019-09-11 
 
 1. Update: [gcr.io/google_containers/conformance:v1.16.0-rc.1](https://hub.docker.com/r/cruse/conformance/tags/) 

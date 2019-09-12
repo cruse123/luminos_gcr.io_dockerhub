@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-scheduler-ppc64le](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.16.0-rc.1](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)**
-
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-scheduler-ppc64le:v1.9.9](https://hub.docker.com/r/cruse/kube-scheduler-ppc64le/tags/)
