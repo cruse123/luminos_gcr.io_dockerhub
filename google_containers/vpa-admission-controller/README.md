@@ -1,7 +1,11 @@
 [gcr.io/google-containers/vpa-admission-controller](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/vpa-admission-controller:0.6.1](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/)**
+
 Update: [gcr.io/google_containers/vpa-admission-controller:v0.1.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/)
+
+Update: [gcr.io/google_containers/vpa-admission-controller:0.6.1](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/)
 
 Update: [gcr.io/google_containers/vpa-admission-controller:0.5.1](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/)
 
