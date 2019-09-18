@@ -1,6 +1,10 @@
 [gcr.io/google-containers/k8s-dns-node-cache-amd64](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.6](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/)**
+
+Update: [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.6](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/)
+
 Update: [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.5](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.4](https://hub.docker.com/r/cruse/k8s-dns-node-cache-amd64/tags/)
