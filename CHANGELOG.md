@@ -1,3 +1,14 @@
+## 2019-09-20 
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
 ## 2019-09-18 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.15.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
