@@ -1,3 +1,23 @@
+## 2019-09-21 
+
+1. Update: [gcr.io/google_containers/metrics-server:v0.3.5](https://hub.docker.com/r/cruse/metrics-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-arm64:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-ppc64le:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/) 
+
+
 ## 2019-09-20 
 
 1. Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 

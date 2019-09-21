@@ -1,8 +1,6 @@
 [gcr.io/google-containers/cluster-proportional-autoscaler-arm](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/)**
-
 Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.7.1](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/)
 
 Update: [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.6.0](https://hub.docker.com/r/cruse/cluster-proportional-autoscaler-arm/tags/)
