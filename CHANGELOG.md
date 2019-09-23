@@ -1,3 +1,8 @@
+## 2019-09-23 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-09-21 
 
 1. Update: [gcr.io/google_containers/metrics-server:v0.3.5](https://hub.docker.com/r/cruse/metrics-server/tags/) 
