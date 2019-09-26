@@ -1,3 +1,8 @@
+## 2019-09-26 
+
+1. Update: [gcr.io/google_containers/addon-resizer:1.8.6](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
+
+
 ## 2019-09-25 
 
 1. Update: [gcr.io/google_containers/event-exporter:v0.3.1](https://hub.docker.com/r/cruse/event-exporter/tags/) 
