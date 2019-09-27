@@ -1,3 +1,8 @@
+## 2019-09-27 
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.12.10-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2019-09-26 
 
 1. Update: [gcr.io/google_containers/addon-resizer:1.8.6](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
