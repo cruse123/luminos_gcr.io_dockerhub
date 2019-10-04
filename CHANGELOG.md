@@ -1,3 +1,8 @@
+## 2019-10-04 
+
+1. Update: [gcr.io/google_containers/watcher-daemonset:alpha4](https://hub.docker.com/r/cruse/watcher-daemonset/tags/) 
+
+
 ## 2019-10-03 
 
 1. Update: [gcr.io/google_containers/conformance:v1.16.2-beta.0](https://hub.docker.com/r/cruse/conformance/tags/) 
