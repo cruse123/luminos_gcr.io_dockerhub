@@ -1,3 +1,8 @@
+## 2019-10-05 
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.8.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-10-04 
 
 1. Update: [gcr.io/google_containers/watcher-daemonset:alpha4](https://hub.docker.com/r/cruse/watcher-daemonset/tags/) 
