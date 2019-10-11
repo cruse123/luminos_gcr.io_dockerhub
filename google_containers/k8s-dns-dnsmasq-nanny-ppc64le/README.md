@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.7](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-ppc64le/tags/)**
-
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.7](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.6](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny-ppc64le/tags/)
