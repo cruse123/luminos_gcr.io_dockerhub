@@ -1,3 +1,47 @@
+## 2019-10-12 
+
+1. Update: [gcr.io/google_containers/etcd:3.3.17](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd:3.4.2](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.3.17](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.4.2](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.3.17](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.4.2](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.3.17](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.4.2](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.4.2.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.3.17.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.3.17](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.4.2](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.3.17](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.4.2](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
 ## 2019-10-10 
 
 1. Update: [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.7](https://hub.docker.com/r/cruse/k8s-dns-dnsmasq-nanny/tags/) 
