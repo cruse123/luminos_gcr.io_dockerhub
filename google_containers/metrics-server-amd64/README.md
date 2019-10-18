@@ -1,8 +1,6 @@
 [gcr.io/google-containers/metrics-server-amd64](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.6](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/)**
-
 Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.6](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/)
 
 Update: [gcr.io/google_containers/metrics-server-amd64:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-amd64/tags/)

@@ -1,3 +1,11 @@
+## 2019-10-18 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-10-15 
 
 1. Update: [gcr.io/google_containers/gcp-controller-manager:9c2dbcf94358dba0e9fcdfbcc3b17a10c439500b](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 

@@ -1,8 +1,6 @@
 [gcr.io/google-containers/metrics-server-s390x](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.6](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/)**
-
 Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.6](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/)
 
 Update: [gcr.io/google_containers/metrics-server-s390x:v0.3.5](https://hub.docker.com/r/cruse/metrics-server-s390x/tags/)

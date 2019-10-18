@@ -1,8 +1,6 @@
 [gcr.io/google-containers/metrics-server](https://hub.docker.com/r/cruse/metrics-server/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/metrics-server:v0.3.6](https://hub.docker.com/r/cruse/metrics-server/tags/)**
-
 Update: [gcr.io/google_containers/metrics-server:v0.3.6](https://hub.docker.com/r/cruse/metrics-server/tags/)
 
 Update: [gcr.io/google_containers/metrics-server:v0.3.5](https://hub.docker.com/r/cruse/metrics-server/tags/)
