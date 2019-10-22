@@ -1,3 +1,14 @@
+## 2019-10-22 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1-rc2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:63e490082d38ac3a9bef87dbfbd6a58c038a07d6](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:63e490082d38ac3a9bef87dbfbd6a58c038a07d6](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-10-19 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.8](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
