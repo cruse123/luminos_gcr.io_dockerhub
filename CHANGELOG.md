@@ -1,3 +1,8 @@
+## 2019-10-24 
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.8.1](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-10-23 
 
 1. Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/) 
