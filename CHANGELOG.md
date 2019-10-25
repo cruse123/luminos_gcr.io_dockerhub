@@ -1,3 +1,17 @@
+## 2019-10-25 
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.13.3-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.8.2](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-10-24 
 
 1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.8.1](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
