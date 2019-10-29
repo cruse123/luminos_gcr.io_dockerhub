@@ -1,3 +1,29 @@
+## 2019-10-29 
+
+1. Update: [gcr.io/google_containers/etcd:3.4.3](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.4.3](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.4.3](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.4.3](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.4.3.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.4.3](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.4.3](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:d25ce10f35cdb1972c39138070c19d82e35a47ce](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
 ## 2019-10-26 
 
 1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1-rc3](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
