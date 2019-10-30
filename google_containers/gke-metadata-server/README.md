@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gke-metadata-server](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/gke-metadata-server:d25ce10f35cdb1972c39138070c19d82e35a47ce](https://hub.docker.com/r/cruse/gke-metadata-server/tags/)**
-
 Update: [gcr.io/google_containers/gke-metadata-server:v0.2.9](https://hub.docker.com/r/cruse/gke-metadata-server/tags/)
 
 Update: [gcr.io/google_containers/gke-metadata-server:v0.2.8](https://hub.docker.com/r/cruse/gke-metadata-server/tags/)
