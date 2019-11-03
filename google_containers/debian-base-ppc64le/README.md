@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-base-ppc64le](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/debian-base-ppc64le:v2.0.0](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/)**
-
 Update: [gcr.io/google_containers/debian-base-ppc64le:v2.0.0](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/debian-base-ppc64le:v1.0.0](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/)
