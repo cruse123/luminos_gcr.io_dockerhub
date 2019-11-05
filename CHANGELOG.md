@@ -1,3 +1,32 @@
+## 2019-11-05 
+
+1. Update: [gcr.io/google_containers/debian-iptables:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gke-metadata-server:01e9ce0dc67d02654afe40db21aaeaca8b33690d](https://hub.docker.com/r/cruse/gke-metadata-server/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.13.4-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
+1. Update: [gcr.io/google_containers/visio-stencil-creator:v1.0](https://hub.docker.com/r/cruse/visio-stencil-creator/tags/) 
+
+
 ## 2019-11-02 
 
 1. Update: [gcr.io/google_containers/debian-base:v2.0.0](https://hub.docker.com/r/cruse/debian-base/tags/) 

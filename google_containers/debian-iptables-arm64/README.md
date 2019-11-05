@@ -1,6 +1,8 @@
 [gcr.io/google-containers/debian-iptables-arm64](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/debian-iptables-arm64:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)**
+
 Update: [gcr.io/google_containers/debian-iptables-arm64:v9](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-arm64:v8](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
@@ -20,6 +22,8 @@ Update: [gcr.io/google_containers/debian-iptables-arm64:v4](https://hub.docker.c
 Update: [gcr.io/google_containers/debian-iptables-arm64:v3](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-arm64:v2](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
+
+Update: [gcr.io/google_containers/debian-iptables-arm64:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-arm64:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/)
 
