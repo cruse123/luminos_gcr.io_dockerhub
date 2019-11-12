@@ -1,3 +1,11 @@
+## 2019-11-12 
+
+1. Update: [gcr.io/google_containers/coredns:1.6.5](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/watcher-daemonset:alpha5](https://hub.docker.com/r/cruse/watcher-daemonset/tags/) 
+
+
 ## 2019-11-06 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.0-beta.1](https://hub.docker.com/r/cruse/conformance/tags/) 
