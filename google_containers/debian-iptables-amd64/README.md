@@ -21,6 +21,8 @@ Update: [gcr.io/google_containers/debian-iptables-amd64:v3](https://hub.docker.c
 
 Update: [gcr.io/google_containers/debian-iptables-amd64:v2](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/)
 
+Update: [gcr.io/google_containers/debian-iptables-amd64:v12.0.1](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/)
+
 Update: [gcr.io/google_containers/debian-iptables-amd64:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-amd64:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/)

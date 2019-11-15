@@ -21,6 +21,8 @@ Update: [gcr.io/google_containers/debian-iptables-ppc64le:v3](https://hub.docker
 
 Update: [gcr.io/google_containers/debian-iptables-ppc64le:v2](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/debian-iptables-ppc64le:v12.0.1](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/debian-iptables-ppc64le:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-ppc64le:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/)

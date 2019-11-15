@@ -21,6 +21,8 @@ Update: [gcr.io/google_containers/debian-iptables-arm:v3](https://hub.docker.com
 
 Update: [gcr.io/google_containers/debian-iptables-arm:v2](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/)
 
+Update: [gcr.io/google_containers/debian-iptables-arm:v12.0.1](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/)
+
 Update: [gcr.io/google_containers/debian-iptables-arm:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-arm:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/)

@@ -13,6 +13,8 @@ Update: [gcr.io/google_containers/debian-iptables-s390x:v5](https://hub.docker.c
 
 Update: [gcr.io/google_containers/debian-iptables-s390x:v4](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/)
 
+Update: [gcr.io/google_containers/debian-iptables-s390x:v12.0.1](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/)
+
 Update: [gcr.io/google_containers/debian-iptables-s390x:v12.0.0](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/)
 
 Update: [gcr.io/google_containers/debian-iptables-s390x:v11.0.2](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/)
