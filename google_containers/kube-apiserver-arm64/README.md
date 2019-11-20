@@ -479,6 +479,8 @@ Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.3.0](https://hub.docke
 
 Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.18.0-alpha.0](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/)
 
+Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.17.0-beta.2](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/)
+
 Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.17.0-beta.1](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/)
 
 Update: [gcr.io/google_containers/kube-apiserver-arm64:v1.17.0-beta.0](https://hub.docker.com/r/cruse/kube-apiserver-arm64/tags/)

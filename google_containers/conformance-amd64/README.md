@@ -3,6 +3,8 @@
 ----
 Update: [gcr.io/google_containers/conformance-amd64:v1.18.0-alpha.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)
 
+Update: [gcr.io/google_containers/conformance-amd64:v1.17.0-beta.2](https://hub.docker.com/r/cruse/conformance-amd64/tags/)
+
 Update: [gcr.io/google_containers/conformance-amd64:v1.17.0-beta.1](https://hub.docker.com/r/cruse/conformance-amd64/tags/)
 
 Update: [gcr.io/google_containers/conformance-amd64:v1.17.0-beta.0](https://hub.docker.com/r/cruse/conformance-amd64/tags/)

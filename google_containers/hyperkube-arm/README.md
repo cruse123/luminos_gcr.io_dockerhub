@@ -493,6 +493,8 @@ Update: [gcr.io/google_containers/hyperkube-arm:v1.2.0-beta.1](https://hub.docke
 
 Update: [gcr.io/google_containers/hyperkube-arm:v1.2.0](https://hub.docker.com/r/cruse/hyperkube-arm/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-arm:v1.17.0-beta.2](https://hub.docker.com/r/cruse/hyperkube-arm/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-arm:v1.17.0-alpha.1](https://hub.docker.com/r/cruse/hyperkube-arm/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-arm:v1.17.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube-arm/tags/)

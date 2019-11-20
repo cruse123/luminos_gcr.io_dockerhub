@@ -1,3 +1,8 @@
+## 2019-11-20 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.0-rc1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-11-12 
 
 1. Update: [gcr.io/google_containers/coredns:1.6.5](https://hub.docker.com/r/cruse/coredns/tags/) 
