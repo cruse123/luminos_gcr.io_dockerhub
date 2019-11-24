@@ -1,8 +1,6 @@
 [gcr.io/google-containers/conformance-ppc64le](https://hub.docker.com/r/cruse/conformance-ppc64le/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/conformance-ppc64le:v1.17.0-rc.1](https://hub.docker.com/r/cruse/conformance-ppc64le/tags/)**
-
 Update: [gcr.io/google_containers/conformance-ppc64le:v1.18.0-alpha.0](https://hub.docker.com/r/cruse/conformance-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/conformance-ppc64le:v1.17.0-rc.1](https://hub.docker.com/r/cruse/conformance-ppc64le/tags/)
