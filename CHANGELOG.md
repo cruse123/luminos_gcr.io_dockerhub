@@ -1,3 +1,8 @@
+## 2019-11-26 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.17.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-11-23 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.0-rc.1](https://hub.docker.com/r/cruse/conformance/tags/) 
