@@ -1,3 +1,17 @@
+## 2019-11-29 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.15.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.14.7](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.17.0-beta.2](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.3](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2019-11-27 
 
 1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:78489379f076ee9175cb6dba3f8295e1788e28f8](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
