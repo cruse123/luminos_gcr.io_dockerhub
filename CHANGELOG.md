@@ -1,3 +1,8 @@
+## 2019-12-02 
+
+1. Update: [gcr.io/google_containers/addon-resizer:1.8.7](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
+
+
 ## 2019-11-30 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.17.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
