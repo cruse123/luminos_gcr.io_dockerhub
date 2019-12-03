@@ -1,3 +1,8 @@
+## 2019-12-03 
+
+1. Update: [gcr.io/google_containers/git-sync:v3.1.3](https://hub.docker.com/r/cruse/git-sync/tags/) 
+
+
 ## 2019-12-02 
 
 1. Update: [gcr.io/google_containers/addon-resizer:1.8.7](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
