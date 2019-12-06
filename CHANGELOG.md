@@ -1,3 +1,8 @@
+## 2019-12-06 
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
 ## 2019-12-04 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.0-rc.2](https://hub.docker.com/r/cruse/conformance/tags/) 
