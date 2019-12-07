@@ -1,3 +1,14 @@
+## 2019-12-07 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.13.9](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-12-06 
 
 1. Update: [gcr.io/google_containers/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851](https://hub.docker.com/r/cruse/gcp-controller-manager/tags/) 
