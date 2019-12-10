@@ -1,6 +1,10 @@
 [gcr.io/google-containers/hyperkube-amd64](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.1-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)**
+
+**Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)**
+
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.9.9-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.9.9](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
@@ -535,6 +539,8 @@ Update: [gcr.io/google_containers/hyperkube-amd64:v1.2.0-alpha.6](https://hub.do
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.2.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
+Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.1-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
+
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0-rc.2](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0-rc.1](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
@@ -544,6 +550,8 @@ Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0-beta.2](https://hub.do
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0-alpha.1](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
+
+Update: [gcr.io/google_containers/hyperkube-amd64:v1.17.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
 Update: [gcr.io/google_containers/hyperkube-amd64:v1.16.4-beta.0](https://hub.docker.com/r/cruse/hyperkube-amd64/tags/)
 
