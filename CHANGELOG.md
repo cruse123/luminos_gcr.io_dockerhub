@@ -1,3 +1,32 @@
+## 2019-12-13 
+
+1. Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cadvisor:v0.35.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/coredns:1.6.6](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-amd64:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm64:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-s390x:v1.8.0](https://hub.docker.com/r/cruse/kube-state-metrics-s390x/tags/) 
+
+
 ## 2019-12-10 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.1-beta.0](https://hub.docker.com/r/cruse/conformance/tags/) 

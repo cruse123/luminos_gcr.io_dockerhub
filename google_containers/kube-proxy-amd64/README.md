@@ -559,7 +559,11 @@ Update: [gcr.io/google_containers/kube-proxy-amd64:v1.17.0-alpha.0](https://hub.
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.17.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.5-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.4-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.4](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.3-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
@@ -593,7 +597,11 @@ Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.0-alpha.0](https://hub.
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.16.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.15.8-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.15.7-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.15.7](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.15.6-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
@@ -671,7 +679,11 @@ Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.2](https://hub.docker.c
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.1-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.11-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.10-beta.0](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
+
+Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.10](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
 Update: [gcr.io/google_containers/kube-proxy-amd64:v1.14.1](https://hub.docker.com/r/cruse/kube-proxy-amd64/tags/)
 
