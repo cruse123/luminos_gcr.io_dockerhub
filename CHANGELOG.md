@@ -1,3 +1,26 @@
+## 2019-12-21 
+
+1. Update: [gcr.io/google_containers/kube-state-metrics:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-amd64:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm64:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-s390x:v1.9.0](https://hub.docker.com/r/cruse/kube-state-metrics-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.9.0](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2019-12-19 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-alpha.1](https://hub.docker.com/r/cruse/conformance/tags/) 
