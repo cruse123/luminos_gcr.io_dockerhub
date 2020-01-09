@@ -1,8 +1,6 @@
 [gcr.io/google-containers/git-sync](https://hub.docker.com/r/cruse/git-sync/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/git-sync:v3.1.4](https://hub.docker.com/r/cruse/git-sync/tags/)**
-
 Update: [gcr.io/google_containers/git-sync:v3.1.4](https://hub.docker.com/r/cruse/git-sync/tags/)
 
 Update: [gcr.io/google_containers/git-sync:v3.1.3](https://hub.docker.com/r/cruse/git-sync/tags/)
