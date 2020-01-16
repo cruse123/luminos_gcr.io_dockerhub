@@ -1,3 +1,8 @@
+## 2020-01-16 
+
+1. Update: [gcr.io/google_containers/kube-cross:v1.13.6-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
+
+
 ## 2020-01-15 
 
 1. Update: [gcr.io/google_containers/conformance:v1.17.2-beta.0](https://hub.docker.com/r/cruse/conformance/tags/) 
