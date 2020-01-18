@@ -1,3 +1,8 @@
+## 2020-01-18 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2020-01-16 
 
 1. Update: [gcr.io/google_containers/kube-cross:v1.13.6-1](https://hub.docker.com/r/cruse/kube-cross/tags/) 
