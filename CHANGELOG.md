@@ -1,3 +1,8 @@
+## 2020-01-21 
+
+1. Update: [gcr.io/google_containers/addon-resizer:1.8.8](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
+
+
 ## 2020-01-18 
 
 1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
