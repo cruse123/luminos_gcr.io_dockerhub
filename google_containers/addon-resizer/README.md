@@ -1,8 +1,6 @@
 [gcr.io/google-containers/addon-resizer](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/addon-resizer:1.8.8](https://hub.docker.com/r/cruse/addon-resizer/tags/)**
-
 Update: [gcr.io/google_containers/addon-resizer:2.3](https://hub.docker.com/r/cruse/addon-resizer/tags/)
 
 Update: [gcr.io/google_containers/addon-resizer:2.1](https://hub.docker.com/r/cruse/addon-resizer/tags/)

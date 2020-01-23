@@ -211,6 +211,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.16.0-alpha
 
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.9-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.9](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.8-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.8](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
@@ -240,6 +242,8 @@ Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.2-beta.
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.2](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.1-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.10-beta.0](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.1](https://hub.docker.com/r/cruse/cloud-controller-manager-ppc64le/tags/)
 
