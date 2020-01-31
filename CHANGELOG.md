@@ -1,3 +1,8 @@
+## 2020-01-31 
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.0](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2020-01-21 
 
 1. Update: [gcr.io/google_containers/addon-resizer:1.8.8](https://hub.docker.com/r/cruse/addon-resizer/tags/) 
