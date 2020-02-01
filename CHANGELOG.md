@@ -1,3 +1,8 @@
+## 2020-02-01 
+
+1. Update: [gcr.io/google_containers/git-sync:v3.1.5](https://hub.docker.com/r/cruse/git-sync/tags/) 
+
+
 ## 2020-01-31 
 
 1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.0](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
