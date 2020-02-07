@@ -1,3 +1,11 @@
+## 2020-02-07 
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.10.1](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/watcher-daemonset:alpha6](https://hub.docker.com/r/cruse/watcher-daemonset/tags/) 
+
+
 ## 2020-02-05 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-alpha.3](https://hub.docker.com/r/cruse/conformance/tags/) 
