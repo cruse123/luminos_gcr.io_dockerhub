@@ -1,6 +1,12 @@
 [gcr.io/google-containers/kubelet-to-gcm](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/kubelet-to-gcm:1.3.1](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/)**
+
+Update: [gcr.io/google_containers/kubelet-to-gcm:1.3.1](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/)
+
+Update: [gcr.io/google_containers/kubelet-to-gcm:1.3.0](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/)
+
 Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.9](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/)
 
 Update: [gcr.io/google_containers/kubelet-to-gcm:1.2.8](https://hub.docker.com/r/cruse/kubelet-to-gcm/tags/)
