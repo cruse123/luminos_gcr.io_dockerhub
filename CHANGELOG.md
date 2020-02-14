@@ -1,3 +1,14 @@
+## 2020-02-14 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.17.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.15.5](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
 ## 2020-02-13 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-alpha.5](https://hub.docker.com/r/cruse/conformance/tags/) 
