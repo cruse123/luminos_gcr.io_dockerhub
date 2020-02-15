@@ -1,6 +1,8 @@
 [gcr.io/google-containers/pause](https://hub.docker.com/r/cruse/pause/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/pause:3.2](https://hub.docker.com/r/cruse/pause/tags/)**
+
 Update: [gcr.io/google_containers/pause:test2](https://hub.docker.com/r/cruse/pause/tags/)
 
 Update: [gcr.io/google_containers/pause:test](https://hub.docker.com/r/cruse/pause/tags/)
@@ -8,6 +10,8 @@ Update: [gcr.io/google_containers/pause:test](https://hub.docker.com/r/cruse/pau
 Update: [gcr.io/google_containers/pause:latest](https://hub.docker.com/r/cruse/pause/tags/)
 
 Update: [gcr.io/google_containers/pause:go](https://hub.docker.com/r/cruse/pause/tags/)
+
+Update: [gcr.io/google_containers/pause:3.2](https://hub.docker.com/r/cruse/pause/tags/)
 
 Update: [gcr.io/google_containers/pause:3.1](https://hub.docker.com/r/cruse/pause/tags/)
 

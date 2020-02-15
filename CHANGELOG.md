@@ -1,3 +1,29 @@
+## 2020-02-15 
+
+1. Update: [gcr.io/google_containers/coredns:1.6.7](https://hub.docker.com/r/cruse/coredns/tags/) 
+
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.10.2](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause:3.2](https://hub.docker.com/r/cruse/pause/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause-amd64:3.2](https://hub.docker.com/r/cruse/pause-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause-arm:3.2](https://hub.docker.com/r/cruse/pause-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause-arm64:3.2](https://hub.docker.com/r/cruse/pause-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause-ppc64le:3.2](https://hub.docker.com/r/cruse/pause-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/pause-s390x:3.2](https://hub.docker.com/r/cruse/pause-s390x/tags/) 
+
+
 ## 2020-02-14 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.16.4](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
