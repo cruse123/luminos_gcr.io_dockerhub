@@ -1,8 +1,6 @@
 [gcr.io/google-containers/pause-arm](https://hub.docker.com/r/cruse/pause-arm/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/pause-arm:3.2](https://hub.docker.com/r/cruse/pause-arm/tags/)**
-
 Update: [gcr.io/google_containers/pause-arm:3.2](https://hub.docker.com/r/cruse/pause-arm/tags/)
 
 Update: [gcr.io/google_containers/pause-arm:3.1](https://hub.docker.com/r/cruse/pause-arm/tags/)
