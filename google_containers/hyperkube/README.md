@@ -531,6 +531,10 @@ Update: [gcr.io/google_containers/hyperkube:v1.2.0](https://hub.docker.com/r/cru
 
 Update: [gcr.io/google_containers/hyperkube:v1.1.9-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
+Update: [gcr.io/google_containers/hyperkube:v1.19.0-alpha.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
+Update: [gcr.io/google_containers/hyperkube:v1.18.0-beta.0](https://hub.docker.com/r/cruse/hyperkube/tags/)
+
 Update: [gcr.io/google_containers/hyperkube:v1.18.0-alpha.5](https://hub.docker.com/r/cruse/hyperkube/tags/)
 
 Update: [gcr.io/google_containers/hyperkube:v1.18.0-alpha.3](https://hub.docker.com/r/cruse/hyperkube/tags/)

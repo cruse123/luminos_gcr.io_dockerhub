@@ -1,3 +1,23 @@
+## 2020-02-20 
+
+1. Update: [gcr.io/google_containers/debian-base:v1.0.1](https://hub.docker.com/r/cruse/debian-base/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-amd64:v1.0.1](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm:v1.0.1](https://hub.docker.com/r/cruse/debian-base-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-arm64:v1.0.1](https://hub.docker.com/r/cruse/debian-base-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-ppc64le:v1.0.1](https://hub.docker.com/r/cruse/debian-base-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-base-s390x:v1.0.1](https://hub.docker.com/r/cruse/debian-base-s390x/tags/) 
+
+
 ## 2020-02-15 
 
 1. Update: [gcr.io/google_containers/coredns:1.6.7](https://hub.docker.com/r/cruse/coredns/tags/) 

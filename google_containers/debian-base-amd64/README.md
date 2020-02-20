@@ -1,7 +1,11 @@
 [gcr.io/google-containers/debian-base-amd64](https://hub.docker.com/r/cruse/debian-base-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/debian-base-amd64:v1.0.1](https://hub.docker.com/r/cruse/debian-base-amd64/tags/)**
+
 Update: [gcr.io/google_containers/debian-base-amd64:v2.0.0](https://hub.docker.com/r/cruse/debian-base-amd64/tags/)
+
+Update: [gcr.io/google_containers/debian-base-amd64:v1.0.1](https://hub.docker.com/r/cruse/debian-base-amd64/tags/)
 
 Update: [gcr.io/google_containers/debian-base-amd64:v1.0.0](https://hub.docker.com/r/cruse/debian-base-amd64/tags/)
 
