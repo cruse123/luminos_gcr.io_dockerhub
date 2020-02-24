@@ -1,3 +1,23 @@
+## 2020-02-24 
+
+1. Update: [gcr.io/google_containers/kube-state-metrics:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-amd64:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-arm64:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-state-metrics-s390x:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics-s390x/tags/) 
+
+
 ## 2020-02-20 
 
 1. Update: [gcr.io/google_containers/debian-base:v1.0.1](https://hub.docker.com/r/cruse/debian-base/tags/) 
