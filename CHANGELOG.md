@@ -1,3 +1,11 @@
+## 2020-02-25 
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.3](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2020-02-24 
 
 1. Update: [gcr.io/google_containers/kube-state-metrics:v1.9.5](https://hub.docker.com/r/cruse/kube-state-metrics/tags/) 
