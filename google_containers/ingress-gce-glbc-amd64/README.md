@@ -1,6 +1,8 @@
 [gcr.io/google-containers/ingress-gce-glbc-amd64](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)**
+
 Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
 
 Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
@@ -26,6 +28,8 @@ Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1-rc1](https://hub
 Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
 
 Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.0](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
+
+Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
 
 Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/)
 

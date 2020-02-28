@@ -1,3 +1,41 @@
+## 2020-02-28 
+
+1. Update: [gcr.io/google_containers/cadvisor:v.25.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v1.0](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.1.12](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.18-0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-version-monitor:0.1.2](https://hub.docker.com/r/cruse/etcd-version-monitor/tags/) 
+
+
+1. Update: [gcr.io/google_containers/hpa-example2:latest](https://hub.docker.com/r/cruse/hpa-example2/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.2](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nginx-ingress-controller-amd64:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nginx-ingress-controller-arm:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/nginx-ingress-controller-ppc64le:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/node-problem-detector:v0.8.1](https://hub.docker.com/r/cruse/node-problem-detector/tags/) 
+
+
 ## 2020-02-27 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-beta.1](https://hub.docker.com/r/cruse/conformance/tags/) 
