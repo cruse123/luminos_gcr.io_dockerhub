@@ -1,8 +1,6 @@
 [gcr.io/google-containers/nginx-ingress-controller](https://hub.docker.com/r/cruse/nginx-ingress-controller/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller/tags/)**
-
 Update: [gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.9](https://hub.docker.com/r/cruse/nginx-ingress-controller/tags/)
 
 Update: [gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.8](https://hub.docker.com/r/cruse/nginx-ingress-controller/tags/)

@@ -1,7 +1,7 @@
 [gcr.io/google-containers/cadvisor](https://hub.docker.com/r/cruse/cadvisor/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/cadvisor:v.25.0](https://hub.docker.com/r/cruse/cadvisor/tags/)**
+**Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/)**
 
 Update: [gcr.io/google_containers/cadvisor:v.25.0](https://hub.docker.com/r/cruse/cadvisor/tags/)
 
