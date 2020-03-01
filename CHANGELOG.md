@@ -1,3 +1,8 @@
+## 2020-03-01 
+
+1. Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/) 
+
+
 ## 2020-02-29 
 
 1. Update: [gcr.io/google_containers/cadvisor:latest](https://hub.docker.com/r/cruse/cadvisor/tags/) 
