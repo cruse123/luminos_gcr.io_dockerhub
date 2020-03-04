@@ -1,3 +1,32 @@
+## 2020-03-04 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-amd64:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-arm64:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-ppc64le:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/debian-iptables-s390x:v11.0.3](https://hub.docker.com/r/cruse/debian-iptables-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/kube-dns-perf-client-amd64:2.0](https://hub.docker.com/r/cruse/kube-dns-perf-client-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/prometheus-to-sd:v0.9.2](https://hub.docker.com/r/cruse/prometheus-to-sd/tags/) 
+
+
 ## 2020-03-03 
 
 1. Update: [gcr.io/google_containers/cadvisor:v0.36.0](https://hub.docker.com/r/cruse/cadvisor/tags/) 
