@@ -1,3 +1,29 @@
+## 2020-03-05 
+
+1. Update: [gcr.io/google_containers/addon-resizer-amd64:2.3](https://hub.docker.com/r/cruse/addon-resizer-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/addon-resizer-arm:2.3](https://hub.docker.com/r/cruse/addon-resizer-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/addon-resizer-arm64:2.3](https://hub.docker.com/r/cruse/addon-resizer-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/addon-resizer-ppc64le:2.3](https://hub.docker.com/r/cruse/addon-resizer-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/addon-resizer-s390x:2.3](https://hub.docker.com/r/cruse/addon-resizer-s390x/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-admission-controller:0.7.0](https://hub.docker.com/r/cruse/vpa-admission-controller/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-recommender:0.7.0](https://hub.docker.com/r/cruse/vpa-recommender/tags/) 
+
+
+1. Update: [gcr.io/google_containers/vpa-updater:0.7.0](https://hub.docker.com/r/cruse/vpa-updater/tags/) 
+
+
 ## 2020-03-04 
 
 1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
