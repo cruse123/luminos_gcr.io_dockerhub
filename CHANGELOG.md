@@ -1,3 +1,11 @@
+## 2020-03-12 
+
+1. Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.3](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2020-03-11 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-beta.2](https://hub.docker.com/r/cruse/conformance/tags/) 
