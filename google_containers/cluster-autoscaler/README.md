@@ -1,8 +1,6 @@
 [gcr.io/google-containers/cluster-autoscaler](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)**
-
 Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.9](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
 
 Update: [gcr.io/google_containers/cluster-autoscaler:v1.3.8](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
@@ -60,6 +58,8 @@ Update: [gcr.io/google_containers/cluster-autoscaler:v1.2.0](https://hub.docker.
 Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
 
 Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
+
+Update: [gcr.io/google_containers/cluster-autoscaler:v1.18.0](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
 
 Update: [gcr.io/google_containers/cluster-autoscaler:v1.17.1](https://hub.docker.com/r/cruse/cluster-autoscaler/tags/)
 
