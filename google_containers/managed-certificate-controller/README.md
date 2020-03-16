@@ -1,6 +1,10 @@
 [gcr.io/google-containers/managed-certificate-controller](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.1](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/)**
+
+Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.1](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/)
+
 Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.0](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/)
 
 Update: [gcr.io/google_containers/managed-certificate-controller:v0.3.4](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/)
