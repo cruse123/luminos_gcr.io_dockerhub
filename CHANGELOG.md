@@ -1,3 +1,8 @@
+## 2020-03-19 
+
+1. Update: [gcr.io/google_containers/managed-certificate-controller:v0.4.2](https://hub.docker.com/r/cruse/managed-certificate-controller/tags/) 
+
+
 ## 2020-03-18 
 
 1. Update: [gcr.io/google_containers/conformance:v1.18.0-rc.1](https://hub.docker.com/r/cruse/conformance/tags/) 
