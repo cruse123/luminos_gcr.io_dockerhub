@@ -1,6 +1,8 @@
 [gcr.io/google-containers/k8s-dns-sidecar-arm](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/) 
 
 ----
+**Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.11](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)**
+
 Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.9](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.8](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
@@ -16,6 +18,8 @@ Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.4](https://hub.docker
 Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.3](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.2](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
+
+Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.11](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
 
 Update: [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.10](https://hub.docker.com/r/cruse/k8s-dns-sidecar-arm/tags/)
 
