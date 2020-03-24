@@ -1,3 +1,26 @@
+## 2020-03-24 
+
+1. Update: [gcr.io/google_containers/etcd:3.4.4](https://hub.docker.com/r/cruse/etcd/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-amd64:3.4.4](https://hub.docker.com/r/cruse/etcd-amd64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm:3.4.4](https://hub.docker.com/r/cruse/etcd-arm/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-arm64:3.4.4](https://hub.docker.com/r/cruse/etcd-arm64/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-empty-dir-cleanup:3.4.4.0](https://hub.docker.com/r/cruse/etcd-empty-dir-cleanup/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-ppc64le:3.4.4](https://hub.docker.com/r/cruse/etcd-ppc64le/tags/) 
+
+
+1. Update: [gcr.io/google_containers/etcd-s390x:3.4.4](https://hub.docker.com/r/cruse/etcd-s390x/tags/) 
+
+
 ## 2020-03-20 
 
 1. Update: [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.9.1](https://hub.docker.com/r/cruse/ingress-gce-glbc-amd64/tags/) 
