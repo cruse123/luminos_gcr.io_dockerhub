@@ -345,7 +345,11 @@ Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.3.0-alpha.3
 
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.3.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
+Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.19.0-alpha.1](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
+
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.19.0-alpha.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.1-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.0-rc.1](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
@@ -364,6 +368,8 @@ Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.0-alpha.
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.0-alpha.1](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.0-alpha.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
+
+Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.18.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
 Update: [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.17.5-beta.0](https://hub.docker.com/r/cruse/kube-controller-manager-ppc64le/tags/)
 
