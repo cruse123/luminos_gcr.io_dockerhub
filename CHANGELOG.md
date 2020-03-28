@@ -1,3 +1,8 @@
+## 2020-03-28 
+
+1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v1.0](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2020-03-24 
 
 1. Update: [gcr.io/google_containers/etcd:3.4.4](https://hub.docker.com/r/cruse/etcd/tags/) 
