@@ -1,3 +1,8 @@
+## 2020-10-08 
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:2c1acccd8eb2f5c43c6e660317b14edbdf78ff7f](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2020-03-28 
 
 1. Update: [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v1.0](https://hub.docker.com/r/cruse/custom-metrics-stackdriver-adapter/tags/) 
