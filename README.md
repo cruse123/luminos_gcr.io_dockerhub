@@ -4,7 +4,7 @@
 
 ## Maintained by **LuminOS** 
 
-## [Last sync: **2020-10-12 15:00 UTC**]
+## [Last sync: **2020-10-13 15:02 UTC**]
 
 [![Sync Status](https://travis-ci.org/cruse123/luminos_gcr.io_dockerhub.svg?branch=sync)](https://travis-ci.org/cruse123/luminos_gcr.io_dockerhub)
 
