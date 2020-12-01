@@ -1,3 +1,11 @@
+## 2020-12-01 
+
+1. Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:8c8d6835e1165d5c986c8408e44d857f37a3bf63](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
+
+
+1. Update: [gcr.io/google_containers/ubuntu-nvidia-driver-installer:8c8d6835e1165d5c986c8408e44d857f37a3bf63](https://hub.docker.com/r/cruse/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2020-11-24 
 
 1. Update: [gcr.io/google_containers/ingress-gce-404-server-with-metrics-amd64:v1.10.11](https://hub.docker.com/r/cruse/ingress-gce-404-server-with-metrics-amd64/tags/) 
