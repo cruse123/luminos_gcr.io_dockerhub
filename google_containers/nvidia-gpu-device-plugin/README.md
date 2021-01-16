@@ -1,10 +1,6 @@
 [gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/) 
 
 ----
-**Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:c358b0cf1affce0f63376b3de6b5742c0fe62a9b](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/)**
-
-**Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:fcd1323b9f0f846f3da12bf21696dd85e6027304](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/)**
-
 Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:fe721d768bab68913c80d37946151ed4eb800e03](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/)
 
 Update: [gcr.io/google_containers/nvidia-gpu-device-plugin:fcd1323b9f0f846f3da12bf21696dd85e6027304](https://hub.docker.com/r/cruse/nvidia-gpu-device-plugin/tags/)
